@@ -1,0 +1,32 @@
+[tool.poetry]
+name = "box office tcc"
+version = "0.1.0"
+description = "Box office forecast TCC work"
+authors = ["Joao Pedro Santos <jpedro.csantos@hotmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.12.2"
+pandas = "^2.2.1"
+python-dotenv = "^1.0.1"
+requests = "^2.31.0"
+isort = "^5.13.2"
+taskipy = "^1.12.2"
+pre-commit = "^3.7.0"
+flake8 = "^7.0.0"
+black = "^24.3.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.isort]
+profile = "black"
+
+[tool.taskipy.tasks]
+format = """
+poetry run isort .
+poetry run black .
+poetry run flake8 .
+"""
