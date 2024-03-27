@@ -15,6 +15,7 @@ taskipy = "^1.12.2"
 pre-commit = "^3.7.0"
 flake8 = "^7.0.0"
 black = "^24.3.0"
+tqdm = "^4.66.2"
 
 
 [build-system]
@@ -30,3 +31,4 @@ poetry run isort .
 poetry run black .
 poetry run flake8 .
 """
+create_database = "poetry run app/database.py"

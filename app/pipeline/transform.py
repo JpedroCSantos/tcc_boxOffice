@@ -2,6 +2,7 @@ import re
 from typing import List
 
 import pandas as pd
+from tqdm import tqdm
 
 # firstInteraction = True
 # for dataframe in list_dataframes:
@@ -28,7 +29,9 @@ def concatenate_dataframes(dataframe_list: List[pd.DataFrame]) -> pd.DataFrame:
     columns = list(set(columns))
 
     dataframe_merge: pd.DataFrame = pd.DataFrame(columns=['Title Normalize'])
-    for index, dataframe in enumerate(dataframe_list):
+    total = 0
+    
+    for index, dataframe in tqdm(enumerate(dataframe_list), total=len(dataframe_list), desc='Criando DataFrame'): 
         dataframe['Title Normalize'] = dataframe['Title'].apply(
             normalize_tile_movie
         )
@@ -41,13 +44,16 @@ def concatenate_dataframes(dataframe_list: List[pd.DataFrame]) -> pd.DataFrame:
         )
     dataframe_merge = dataframe_merge.drop(columns=['Title Normalize'])
 
-    for column in dataframe_merge.columns:
+    for column in tqdm(dataframe_merge.columns, total=len(dataframe_merge.columns), desc=f'Removendo Colunas Duplicadas'):
         if '_dup' in column:
             pattern = re.compile(r'_dup\d*$')
             column_name: str = re.sub(pattern, '', str(column))
             dataframe_merge[column_name] = dataframe_merge.apply(
                 lambda row: fill_column(row, column_name, max_index),
                 axis=1,
+            )
+            dataframe_merge["Year"] = dataframe_merge["Year"].apply(
+                lambda row: int(row) if pd.notnull(row) else row
             )
             dataframe_merge = remove_dup_columns(dataframe_merge, column_name)
 
