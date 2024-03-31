@@ -27,8 +27,11 @@ profile = "black"
 
 [tool.taskipy.tasks]
 format = """
-poetry run isort .
-poetry run black .
-poetry run flake8 .
+isort .
+black .
+flake8 . --exclude=.venv
 """
-create_database = "poetry run app/database.py"
+create_database = "python app/database.py"
+
+[tool.flake8]
+exclude = ".venv"

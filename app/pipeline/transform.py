@@ -2,16 +2,8 @@ import re
 from typing import List
 
 import pandas as pd
+from api.consult import complete_df
 from tqdm import tqdm
-
-# firstInteraction = True
-# for dataframe in list_dataframes:
-#     if firstInteraction:
-#         firstInteraction = False
-#         pass
-#     else:
-#        dataframe = dataframe.drop(0)
-
 
 def concatenate_dataframes(dataframe_list: List[pd.DataFrame]) -> pd.DataFrame:
     """
@@ -21,46 +13,31 @@ def concatenate_dataframes(dataframe_list: List[pd.DataFrame]) -> pd.DataFrame:
 
     return: dataframe
     """
-    columns: List[str] = []
     max_index: int = len(dataframe_list)
 
-    for dataframe in dataframe_list:
-        columns.extend(dataframe.columns)
-    columns = list(set(columns))
-
-    dataframe_merge: pd.DataFrame = pd.DataFrame(columns=['Title Normalize'])
-    total = 0
-    
-    for index, dataframe in tqdm(enumerate(dataframe_list), total=len(dataframe_list), desc='Criando DataFrame'): 
-        dataframe['Title Normalize'] = dataframe['Title'].apply(
-            normalize_tile_movie
-        )
+    dataframe_merge: pd.DataFrame = pd.DataFrame(columns=["Title Normalize"])
+    for index, dataframe in tqdm(
+        enumerate(dataframe_list), total=len(dataframe_list), desc="Criando DataFrame"
+    ):
+        dataframe["Title Normalize"] = dataframe["Title"].apply(normalize_tile_movie)
         dataframe_merge = pd.merge(
             dataframe_merge,
             dataframe,
-            on='Title Normalize',
-            how='outer',
-            suffixes=('', f'_dup{index}'),
+            on="Title Normalize",
+            how="outer",
+            suffixes=("", f"_dup{index}"),
         )
-    dataframe_merge = dataframe_merge.drop(columns=['Title Normalize'])
-
-    for column in tqdm(dataframe_merge.columns, total=len(dataframe_merge.columns), desc=f'Removendo Colunas Duplicadas'):
-        if '_dup' in column:
-            pattern = re.compile(r'_dup\d*$')
-            column_name: str = re.sub(pattern, '', str(column))
-            dataframe_merge[column_name] = dataframe_merge.apply(
-                lambda row: fill_column(row, column_name, max_index),
-                axis=1,
-            )
-            dataframe_merge["Year"] = dataframe_merge["Year"].apply(
-                lambda row: int(row) if pd.notnull(row) else row
-            )
-            dataframe_merge = remove_dup_columns(dataframe_merge, column_name)
+    dataframe_merge = dataframe_merge.drop(columns=["Title Normalize"])
+    dataframe_merge = remove_dup_columns(dataframe_merge, max_index)
+    dataframe_merge["Year"] = dataframe_merge["Year"].apply(
+        lambda row: int(row) if pd.notnull(row) else row
+    )
+    dataframe_merge = complete_df(dataframe_merge)
 
     return dataframe_merge
 
 
-def remove_dup_columns(df: pd.DataFrame, column_name: str):
+def remove_dup_columns(df: pd.DataFrame, max_index: int) -> pd.DataFrame:
     """
     Remove qualquer coluna duplicada que possui o sufixo "_dup"
 
@@ -69,9 +46,18 @@ def remove_dup_columns(df: pd.DataFrame, column_name: str):
 
     return: df(pd.dataframe): Dataframe sem as colunas (column_name) duplicadas.
     """
-    for column in df.columns:
-        if f'{column_name}_dup' in column:
+    for column in tqdm(
+        df.columns, total=len(df.columns), desc=f"Removendo Colunas Duplicadas"
+    ):
+        if f"_dup" in column:
+            pattern = re.compile(r"_dup\d*$")
+            column_name: str = re.sub(pattern, "", str(column))
+            df[column_name] = df.apply(
+                lambda row: fill_column(row, column_name, max_index),
+                axis=1,
+            )
             df = df.drop(columns=[column])
+
     return df
 
 
@@ -84,7 +70,7 @@ def normalize_tile_movie(nome_filme):
     return: nome_filme_normalizado (str): Nome do Filme Normalizado
     """
     nome_filme_normalizado = nome_filme.lower()
-    nome_filme_normalizado = re.sub(r'[^a-z0-9\s]', '', nome_filme_normalizado)
+    nome_filme_normalizado = re.sub(r"[^a-z0-9]", "", nome_filme_normalizado)
     return nome_filme_normalizado
 
 
@@ -96,20 +82,20 @@ def fill_column(row: List, column: str, max_index: int):
     args: row (List): Linha a ser preenchida
           column (str): Nome da coluna
           max_index: Número maximo de colunas com o mesmo nome
-    
+
     return: row[column]: Linha preenchida com o valor da coluna
     """
     if pd.notnull(row[column]):
         return row[column]
 
     for i in range(max_index + 1):
-        column_name = f'{column}_dup{i}'
+        column_name = f"{column}_dup{i}"
         if column_name in row and pd.notnull(row[column_name]):
             return row[column_name]
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     from extract import read_data
 
-    df = read_data(path='data\input')
+    df = read_data(path="data\input")
     data_frame_list = concatenate_dataframes(df)

@@ -1,12 +1,11 @@
-import os
 import json
-import pandas as pd
-
+import os
 from typing import List
+
+import pandas as pd
 
 
 def load_csv(data_frame: pd.DataFrame, output_path: str, filename: str) -> str:
-
     """
     Recebe um dataframe e transforma em um arquivo csv
 
@@ -19,12 +18,13 @@ def load_csv(data_frame: pd.DataFrame, output_path: str, filename: str) -> str:
     """
     if not os.path.exists(output_path):
         os.makedirs(output_path)
-    
-    if os.path.exists(f'{output_path}/{filename}.csv'):
-        os.remove(f'{output_path}/{filename}.csv')
 
-    data_frame.to_csv(f'{output_path}/{filename}.csv', index=False)
-    return 'Arquivo CSV criado com sucesso'
+    if os.path.exists(f"{output_path}/{filename}.csv"):
+        os.remove(f"{output_path}/{filename}.csv")
+
+    data_frame.to_csv(f"{output_path}/{filename}.csv", index=False)
+    return "Arquivo CSV criado com sucesso"
+
 
 def load_json(content: List[str], output_path: str, filename: str) -> str:
     """
@@ -39,15 +39,15 @@ def load_json(content: List[str], output_path: str, filename: str) -> str:
     """
     if not os.path.exists(output_path):
         os.makedirs(output_path)
-    
-    if os.path.exists(f'{output_path}/{filename}.json'):
-        os.remove(f'{output_path}/{filename}.json')
-    
+
+    if os.path.exists(f"{output_path}/{filename}.json"):
+        os.remove(f"{output_path}/{filename}.json")
+
     data = {}
     for string in content:
         data[string] = True  # Definir os valores como None
-    
-    with open(f'{output_path}/{filename}.json', 'w') as arquivo:
+
+    with open(f"{output_path}/{filename}.json", "w") as arquivo:
         json.dump(data, arquivo, indent=4)
 
-    return 'Arquivo JSON criado com sucesso'
+    return "Arquivo JSON criado com sucesso"

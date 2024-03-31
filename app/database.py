@@ -1,31 +1,40 @@
-from api.consult import complete_df
 from dotenv import load_dotenv
-from pipeline.extract import read_data, read_file, exists_database
+from pipeline.extract import exists_database, read_data, read_file, same_creator_files, new_files
 from pipeline.load import load_csv, load_json
 from pipeline.transform import concatenate_dataframes
+from api.consult import complete_df
 
-# df = read_file(path= "data\input\All Time Worldwide Box Office (filter).csv", delimiter = ";", encoding = "latin1")
-FINAL_PATH = 'C:/Users/JPedr/OneDrive/Documentos/TCC/Projeto/data/output'
+FINAL_PATH = "C:/Users/JPedr/OneDrive/Documentos/TCC/Projeto/data/output"
+df, file_names = read_data(path="data/input")
 
-df, file_names = read_data(path='data\input')
-if exists_database(path = FINAL_PATH, list_of_files = file_names):
-    print("Exists database")
-    df = read_file(path = f'{FINAL_PATH}/Box_Office DataBase.csv')
+if exists_database(path=FINAL_PATH, list_of_files=file_names):
+    if same_creator_files(path=FINAL_PATH, list_of_files=file_names):
+        print("Update database")
+        df = read_file(path=f"{FINAL_PATH}/Box_Office DataBase.csv")
+        df = complete_df(df)
+    else:    
+        print("Merge and update database")
+        df_list = []
+        df_list.append(read_file(path=f"{FINAL_PATH}/Box_Office DataBase.csv"))
+        files_to_merge = new_files(input_path = "data/input", output_path= FINAL_PATH)
+        for file in files_to_merge:
+            df_list.append(read_file(path=f"data/input/{file}", delimiter=";", encoding="latin1"))
+        print(df_list)
+        df = concatenate_dataframes(df_list)
 else:
-    print("Update database")
+    print("Create database")
     df = concatenate_dataframes(df)
-    load_json(
-        content=file_names,
-        output_path= FINAL_PATH,
-        filename='Box_Office DataBase',
-    )
 
-# df = complete_df(df)
 print(df)
 print(df.columns)
 
-# load_csv(
-#     data_frame=df,
-#     output_path= FINAL_PATH,
-#     filename='Box_Office DataBase',
-# )
+load_csv(
+    data_frame=df,
+    output_path=FINAL_PATH,
+    filename="Box_Office DataBase",
+)
+load_json(
+    content=file_names,
+    output_path=FINAL_PATH,
+    filename="Box_Office DataBase",
+)
