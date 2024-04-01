@@ -63,7 +63,7 @@ def exists_database(path: str, list_of_files: List[str]) -> bool:
     return: bool
     """
     if (
-        (os.path.exists(f"{path}/Box_Office DataBase.csv"))
+        (os.path.exists(f"{path}/Box_Office DataBase(not_filtered).csv"))
         and (os.path.exists(f"{path}/Box_Office DataBase.json"))
     ):
         return True

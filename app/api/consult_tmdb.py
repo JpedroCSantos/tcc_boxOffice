@@ -67,7 +67,7 @@ if __name__ == "__main__":
 
     from dotenv import load_dotenv
 
-    load_dotenv(dotenv_path="env\.env")
+    load_dotenv(dotenv_path="env/.env")
     api_key = os.getenv("TMDB_AUTORIZATION")
 
     movie_id = search_movie(query="10 Cloverfield Lane", year=2016, api_key=api_key)[0][

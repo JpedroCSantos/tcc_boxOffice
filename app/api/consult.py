@@ -21,6 +21,9 @@ def complete_df(df: pd.DataFrame) -> pd.DataFrame:
 
     return: df(pd.DataFrame) : dataframe completo
     """
+    # Adicionar as colunas que existem nas minha apis ao meu datafame
+    #Isolar a parte de consulta deixando a responsabilidade de informação para os modulos
+
     ROWS_TMDB: Dict = get_tmdb_dict()
     ROWS_OMDB: Dict = get_omdb_dict()
 
@@ -127,12 +130,12 @@ def insert_info_movie(response: Dict, row_list: Dict, df: pd.DataFrame, index: i
 
     return df
 
-# if __name__ == '__main__':
-#     from dotenv import load_dotenv
-#     from pipeline.extract import read_data
-#     from pipeline.transform import concatenate_dataframes
+if __name__ == '__main__':
+    from dotenv import load_dotenv
+    from pipeline.extract import read_data
+    from pipeline.transform import concatenate_dataframes
 
-#     # df = read_file(path= "data\input\All Time Worldwide Box Office (filter).csv", delimiter = ";", encoding = "latin1")
-#     df = read_data(path='data\input')
-#     df = concatenate_dataframes(df).head(10)
-#     df = complete_df(df)
+    # df = read_file(path= "data\input\All Time Worldwide Box Office (filter).csv", delimiter = ";", encoding = "latin1")
+    df = read_data(path='data/input')
+    df = concatenate_dataframes(df).head(10)
+    df = complete_df(df)

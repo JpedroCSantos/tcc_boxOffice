@@ -1,9 +1,10 @@
 import re
-from typing import List
+from typing import List, Dict
 
 import pandas as pd
 from api.consult import complete_df
 from tqdm import tqdm
+from pipeline.load import load_csv
 
 def concatenate_dataframes(dataframe_list: List[pd.DataFrame]) -> pd.DataFrame:
     """
@@ -92,10 +93,38 @@ def fill_column(row: List, column: str, max_index: int):
         column_name = f"{column}_dup{i}"
         if column_name in row and pd.notnull(row[column_name]):
             return row[column_name]
+        
+def fill_dataframe(
+        df, 
+        columns_to_split: Dict = {
+            'Cast':{
+                'number_columns': 3
+            },
+            'Director': {
+                'number_columns': 2
+            }, 
+        }
+    ):
+    
+    df = df[(df['WorldwideBox_office'] != 0) & (df['WorldwideBox_office'].notna()) & (df['DomesticBox_office'] != 0) & (df['DomesticBox_office'].notna())]
+    df = df[(df['WorldwideBox_office'].notna()) & (df['Director'].notna())]
+    df.loc[:, 'InternationalBox_office'] = df['WorldwideBox_office'] - df['DomesticBox_office']
+
+    for column, config in columns_to_split.items():
+        df.loc[:, column] = df[column].fillna('')
+        number_columns = config['number_columns']
+        df.loc[:, column] = df[column].apply(lambda x: x.split(',')[:number_columns])
+
+        for i in range(number_columns):
+            df.loc[:, f'{column}_{i+1}'] = df[column].apply(lambda x: x[i] if len(x) > i else None)        
+
+    df = df.drop(columns=list(columns_to_split.keys()))
+
+    return df
 
 
 if __name__ == "__main__":
     from extract import read_data
 
-    df = read_data(path="data\input")
+    df = read_data(path="data/input")
     data_frame_list = concatenate_dataframes(df)
