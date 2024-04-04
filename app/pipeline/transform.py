@@ -2,7 +2,7 @@ import re
 from typing import List, Dict
 
 import pandas as pd
-from api.consult import complete_df
+# from api.consult import complete_df
 from tqdm import tqdm
 from pipeline.load import load_csv
 
@@ -33,7 +33,6 @@ def concatenate_dataframes(dataframe_list: List[pd.DataFrame]) -> pd.DataFrame:
     dataframe_merge["Year"] = dataframe_merge["Year"].apply(
         lambda row: int(row) if pd.notnull(row) else row
     )
-    dataframe_merge = complete_df(dataframe_merge)
 
     return dataframe_merge
 
