@@ -1,0 +1,353 @@
+id;Year;Title;WorldwideBox_office;DomesticBox_office;InternationalBox_office;production_cost;Runtime;release_date;Genre_1;Genre_2;Genre_3;original_language;popularity;Production_Companies;vote_average;vote_count;Cast;Director;IMDB_Rating;Metascore
+671;2001;Harry Potter and the Philosopher's Stone;976475550;3188869620;;125000000;152;11;Adventure;Fantasy;Family;en;184584;Warner Bros. Pictures;79;26437;Daniel Radcliffe, Rupert Grint, Emma Watson;Chris Columbus;760;650
+138843;2013;The Conjuring;320400000;1374463680;;13000000;112;7;Horror;Thriller;;en;107162;Evergreen Media Group;7541;11075;Patrick Wilson, Vera Farmiga, Ron Livingston;James Wan;750;680
+139038;2013;A Haunted House;60141683;400416830;;2500000;86;1;Comedy;Horror;;en;37689;Open Road Films;59;1783;Marlon Wayans, Essence Atkins, Marlene Forte;Michael Tiddes;500;200
+139948;2012;Burn;111300;11092760;;225000;86;11;Documentary;Documentary;;en;2201;Apostle;74;24;Donald Austin, Brendan Doogie Milewski, Craig Dougherty;Tom Putnam, Brenna Sanchez;740;820
+140300;2016;Kung Fu Panda 3;521170825;1435286190;;145000000;95;1;Action;Adventure;Animation;en;147107;DreamWorks Animation;6907;5704;Jack Black, Bryan Cranston, Dustin Hoffman;Alessandro Carloni, Jennifer Yuh Nelson;710;660
+140823;2013;Saving Mr. Banks;112544580;833015800;;35000000;125;11;Comedy;Drama;History;en;16758;Hopscotch Features;7349;3198;Emma Thompson, Tom Hanks, Annie Rose Buckley;John Lee Hancock;750;650
+144336;2014;Sabotage;22100000;105085180;;35000000;110;3;Action;Drama;Thriller;en;30694;Open Road Films;56;1357;Arnold Schwarzenegger, Sam Worthington, Terrence Howard;David Ayer;570;410
+144340;2013;Admission;18600000;180073170;;13000000;107;3;Comedy;Drama;Romance;en;12214;Focus Features;56;593;Tina Fey, Paul Rudd, Nat Wolff;Paul Weitz;570;480
+145220;2014;Muppets Most Wanted;80400000;511831130;;50000000;107;3;Comedy;Adventure;Crime;en;18207;Walt Disney Pictures;63;779;Ricky Gervais, Ty Burrell, Tina Fey;James Bobin;640;610
+146198;2016;Triple 9;12600000;126392970;;20000000;115;2;Action;Crime;Adventure;en;25718;Surefire Capital;5969;2041;Casey Affleck, Chiwetel Ejiofor, Anthony Mackie;John Hillcoat;630;520
+146203;2013;The Last Exorcism Part II;15200000;151793020;;5000000;88;2;Horror;Thriller;;en;21526;CBS Films;46;513;Ashley Bell, Julia Garner, Spencer Treat Clark;Ed Gass-Donnelly;400;350
+146216;2013;RED 2;148100000;532625600;;84000000;116;7;Action;Comedy;Crime;en;24857;di Bonaventura Pictures;65;3870;Bruce Willis, Helen Mirren, John Malkovich;Dean Parisot;660;470
+146227;2013;Getaway;10501938;105019380;;18000000;90;8;Action;Crime;;en;1596;Saints LA;50;599;Ethan Hawke, Selena Gomez, Jon Voight;Courtney Solomon;440;220
+146233;2013;Prisoners;122126687;610023020;;46000000;153;9;Drama;Thriller;Crime;en;54195;Alcon Entertainment;8094;11264;Hugh Jackman, Jake Gyllenhaal, Viola Davis;Denis Villeneuve;820;700
+146238;2013;Runner Runner;62600000;193166460;;30000000;91;9;Crime;Thriller;Drama;en;15235;Regency Enterprises;56;1194;Ben Affleck, Justin Timberlake, Gemma Arterton;Brad Furman;560;360
+146239;2013;Delivery Man;51164106;306641060;;26000000;105;10;Comedy;;;en;16122;DreamWorks Pictures;62;1417;Vince Vaughn, Chris Pratt, Cobie Smulders;Ken Scott;630;440
+146304;2013;The Best Man Holiday;71625195;705251950;;17000000;123;11;Comedy;;;en;9077;Universal Pictures;66;248;Monica Calhoun, Morris Chestnut, Melissa De Sousa;Malcolm D. Lee;660;590
+147441;2014;Exodus: Gods and Kings;268031828;650145130;;140000000;150;12;Adventure;Drama;Action;en;78737;20th Century Fox;5863;4398;Christian Bale, Joel Edgerton, Ben Kingsley;Ridley Scott;600;520
+147767;2012;Khiladi 786;126;3794660;;0;139;12;Action;Comedy;;hi;7333;Hari Om Entertainment;46;37;Akshay Kumar, Asin Thottumkal, Mithun Chakraborty;Ashish R. Mohan;430;
+147773;2013;The Way Way Back;23198652;215065460;;4600000;103;6;Comedy;Drama;;en;11852;Sycamore Pictures;7153;1699;Steve Carell, Toni Collette, Allison Janney;Nat Faxon, Jim Rash;740;680
+150540;2015;Inside Out;857611174;3569217110;;175000000;95;6;Animation;Family;Adventure;en;173735;Pixar;7916;20218;Amy Poehler, Bill Hader, Lewis Black;Pete Docter, Ronnie Del Carmen;810;940
+150689;2015;Cinderella;543514353;2011513530;;95000000;105;3;Romance;Fantasy;Family;en;97643;Walt Disney Pictures;68;6877;Lily James, Cate Blanchett, Richard Madden;Kenneth Branagh;690;670
+152532;2013;Dallas Buyers Club;55736588;272982850;;5000000;117;11;Drama;History;;en;22827;Truth Entertainment;7929;8237;Matthew McConaughey, Jennifer Garner, Jared Leto;Jean-Marc Vallée;790;770
+152599;2013;The Immigrant;5867686;20253280;;16000000;117;11;Drama;Romance;;en;1534;Kingsgate Films;6307;796;Marion Cotillard, Joaquin Phoenix, Jeremy Renner;James Gray;660;770
+152601;2013;Her;47351251;255682510;;23000000;126;12;Romance;Science Fiction;Drama;en;48583;Annapurna Pictures;7858;13815;Joaquin Phoenix, Amy Adams, Scarlett Johansson;Spike Jonze;800;910
+152737;2013;August: Osage County;74188937;377388100;;25000000;121;12;Comedy;Drama;;en;16597;Jean Doumanian Productions;68;1417;Meryl Streep, Dermot Mulroney, Julia Roberts;John Wells;720;580
+152742;2013;The Best Offer;19255873;1000350;;13500000;131;1;Drama;Romance;Crime;it;21911;Regione Lazio;783;2745;Geoffrey Rush, Jim Sturgess, Sylvia Hoeks;Giuseppe Tornatore;780;490
+152747;2013;All Is Lost;6108720;62636700;;9000000;106;8;Action;Adventure;Drama;en;13844;Before the Door Pictures;6639;1548;Robert Redford;J.C. Chandor;690;870
+152760;2014;The Monuments Men;154984035;780316200;;70000000;118;1;War;Drama;History;en;23298;Columbia Pictures;6048;3457;George Clooney, Matt Damon, Bill Murray;George Clooney;610;520
+153518;2016;The Angry Birds Movie;349779543;1075093660;;73000000;97;5;Animation;Adventure;Comedy;en;53237;Columbia Pictures;62;3498;Jason Sudeikis, Josh Gad, Danny McBride;Clay Kaytis, Fergal Reilly;630;430
+156022;2014;The Equalizer;192330738;1015307380;;55000000;132;9;Thriller;Action;Crime;en;96355;Lonetree Entertainment;7271;8669;Denzel Washington, Marton Csokas, Chloë Grace Moretz;Antoine Fuqua;720;570
+157293;2013;ABCD;222000;2220980;;0;136;2;Drama;Music;;hi;6759;UTV Motion Pictures;59;47;Prabhu Deva, Ganesh Acharya, Kay Kay Menon;Remo D'Souza;630;
+157336;2014;Interstellar;701729206;1880200170;;165000000;169;11;Adventure;Drama;Science Fiction;en;2364;Legendary Pictures;8433;34095;Matthew McConaughey, Anne Hathaway, Jessica Chastain;Christopher Nolan;870;740
+157350;2014;Divergent;288885818;1509478950;;85000000;139;3;Action;Adventure;Science Fiction;en;50644;Summit Entertainment;692;12438;Shailene Woodley, Theo James, Kate Winslet;Neil Burger;660;480
+157353;2014;Transcendence;103039258;230223090;;100000000;119;4;Thriller;Science Fiction;Drama;en;28947;DMG Entertainment;6034;5247;Johnny Depp, Rebecca Hall, Morgan Freeman;Wally Pfister;620;420
+157354;2013;Fruitvale Station;17600000;161013390;;900000;82;7;Drama;;;en;20357;Significant Productions;7361;1227;Michael B. Jordan, Melonie Diaz, Octavia Spencer;Ryan Coogler;750;850
+157386;2013;The Spectacular Now;6854611;68546110;;2500000;95;8;Comedy;Drama;Romance;en;24165;Global Produce;6648;2784;Miles Teller, Shailene Woodley, Kyle Chandler;James Ponsoldt;700;820
+157544;2015;The Vatican Tapes;1784763;17847630;;13000000;91;7;Thriller;Horror;;en;24767;Lionsgate;53;729;Olivia Taylor Dudley, Michael Peña, Dougray Scott;Mark Neveldine;470;380
+157547;2013;Oculus;44459951;276952460;;5000000;104;9;Horror;;;en;53499;MICA Entertainment;6441;2816;Karen Gillan, Brenton Thwaites, Katee Sackhoff;Mike Flanagan;650;610
+157841;2013;The Young and Prodigious T.S. Spivet;9494789;1735640;;33000000;105;10;Adventure;Drama;Family;en;15576;Epithète Films;68;761;Helena Bonham Carter, Judy Davis, Callum Keith Rennie;Jean-Pierre Jeunet;700;530
+157849;2014;A Most Wanted Man;31554855;172378550;;15000000;121;7;Thriller;;;en;15951;Amusement Park Films;6469;1300;Philip Seymour Hoffman, Rachel McAdams, Daniel Brühl;Anton Corbijn;670;730
+158011;2013;The Call;68572378;518723780;;13000000;94;3;Crime;Thriller;;en;31717;TriStar Pictures;68;2797;Halle Berry, Evie Thompson, Abigail Breslin;Brad Anderson;670;510
+158015;2013;The Purge;89328627;644731150;;3000000;86;5;Science Fiction;Horror;Thriller;en;47338;Universal Pictures;6256;8117;Ethan Hawke, Lena Headey, Max Burkholder;James DeMonaco;570;410
+158852;2015;Tomorrowland;209200000;934363220;;190000000;130;5;Adventure;Family;Mystery;en;76361;Walt Disney Pictures;63;6772;George Clooney, Britt Robertson, Hugh Laurie;Brad Bird;640;600
+159014;2013;20 Feet from Stardom;5892466;49464450;;1000000;89;6;Documentary;Music;;en;7656;Tremolo Productions;72;228;Darlene Love, Merry Clayton, Lisa Fischer;Morgan Neville;740;830
+159824;2015;Hotel Transylvania 2;473200000;1697001100;;80000000;89;9;Animation;Comedy;Family;en;62071;Columbia Pictures;68;5513;Adam Sandler, Andy Samberg, Selena Gomez;Genndy Tartakovsky;660;440
+160588;2013;Blue Jasmine;99200000;334054810;;18000000;99;8;Drama;Drama;;en;19412;Gravier Productions;6996;3323;Cate Blanchett, Alec Baldwin, Peter Sarsgaard;Woody Allen;730;780
+162903;2013;The Fifth Estate;8555008;32550080;;28000000;128;10;Drama;Thriller;;en;14593;Participant;60;966;Benedict Cumberbatch, Daniel Brühl, Carice van Houten;Bill Condon;620;490
+164457;2013;Out of the Furnace;15400000;113308490;;22000000;116;11;Thriller;Drama;Crime;en;1772;Energy Entertainment;6571;1874;Christian Bale, Casey Affleck, Zoe Saldana;Scott Cooper;670;630
+164558;2013;One Direction: This Is Us;68500000;288733740;;10000000;107;8;Documentary;Music;;en;12063;TriStar Pictures;83;1001;Liam Payne, Harry Styles, Zayn Malik;Morgan Spurlock;430;490
+166424;2015;Fantastic Four;167977596;561175480;;120000000;100;8;Action;Adventure;Science Fiction;en;38534;20th Century Fox;4416;5790;Miles Teller, Kate Mara, Michael B. Jordan;Josh Trank;430;270
+167073;2015;Brooklyn;62076141;383227430;;11000000;111;10;Romance;Drama;;en;43768;Wildgaze Films;731;2993;Saoirse Ronan, Emory Cohen, Domhnall Gleeson;John Crowley;750;880
+168530;2014;Ride Along;153997819;1349382000;;25000000;99;1;Action;Comedy;;en;2271;Rainforest Entertainment;6252;2168;Ice Cube, Kevin Hart, Tika Sumpter;Tim Story;610;410
+168672;2013;American Hustle;251171807;1501178070;;40000000;138;12;Drama;Crime;;en;2164;Annapurna Pictures;69;7031;Christian Bale, Amy Adams, Bradley Cooper;David O. Russell;720;900
+168705;2005;BloodRayne;3650275;24054200;;25000000;95;10;Fantasy;Adventure;Fantasy;en;15518;Boll KG;41;521;Kristanna Loken, Ben Kingsley, Michelle Rodriguez;Uwe Boll;300;180
+169917;2014;A Walk Among the Tombstones;58834384;263076000;;28000000;114;9;Crime;Drama;Mystery;en;32558;Traveling Picture Show Company;6324;2709;Liam Neeson, Dan Stevens, David Harbour;Scott Frank;650;570
+170687;2014;The Boxtrolls;108255770;508373050;;60000000;97;9;Animation;Comedy;Family;en;26049;Laika;67;1605;Ben Kingsley, Jared Harris, Nick Frost;Graham Annable, Anthony Stacchi;680;610
+171274;2014;Inherent Vice;14710975;81109750;;20000000;149;12;Drama;Mystery;Comedy;en;39731;Warner Bros. Pictures;6576;2389;Joaquin Phoenix, Josh Brolin, Owen Wilson;Paul Thomas Anderson;660;810
+172385;2014;Rio 2;500200000;1315384350;;103000000;101;3;Animation;Adventure;Comedy;en;5286;Blue Sky Studios;65;3344;Jesse Eisenberg, Anne Hathaway, Jemaine Clement;Carlos Saldanha;630;490
+172533;2013;Drinking Buddies;343341;3433410;;0;90;8;Romance;Drama;Comedy;en;9383;Burn Later Productions;59;772;Olivia Wilde, Jake Johnson, Anna Kendrick;Joe Swanberg;610;710
+175528;2013;Baggage Claim;22456509;215695090;;8500000;96;9;Romance;Comedy;;en;16437;Sneak Preview Productions;53;187;Paula Patton, Taye Diggs, Jill Scott;David E. Talbert;510;340
+175541;2013;Black Nativity;7018189;70181890;;17500000;93;11;Music;Drama;;en;668;Malvern Pictures;52;55;Forest Whitaker, Angela Bassett, Jennifer Hudson;Kasi Lemmons;480;480
+175555;2013;A Madea Christmas;53396635;525433540;;25000000;100;12;Comedy;Drama;;en;6082;Lionsgate;64;131;Tyler Perry, Chad Michael Murray, Tika Sumpter;Tyler Perry;500;280
+175574;2013;Free Birds;110000000;557504800;;55000000;91;10;Animation;Comedy;Family;en;22536;Reel FX Creative Studios;59;741;Woody Harrelson, Owen Wilson, Dan Fogler;Jimmy Hayward;580;380
+176124;2013;Home Run;2861020;28610200;;1200000;114;4;Drama;;;en;5672;Provident Films;63;55;Scott Elrod, Dorian Brown Pham, Charles Henry Wyson;David Boyd;590;
+177572;2014;Big Hero 6;657827828;2225278280;;165000000;102;10;Adventure;Family;Animation;en;112298;Walt Disney Pictures;7735;15138;Ryan Potter, Scott Adsit, Jamie Chung;Don Hall, Chris Williams;780;740
+177677;2015;Mission: Impossible - Rogue Nation;682700000;1950423770;;150000000;131;7;Action;Adventure;Thriller;en;63985;Paramount;7196;8493;Tom Cruise, Rebecca Ferguson, Jeremy Renner;Christopher McQuarrie;740;750
+179144;2013;The Great Beauty;24930592;28524000;;9200000;142;5;Drama;Drama;;it;17561;France 2 Cinéma;75;2988;Toni Servillo, Carlo Verdone, Sabrina Ferilli;Paolo Sorrentino;770;860
+181283;2015;Child 44;3324330;12243300;;50000000;137;3;Crime;Thriller;;en;2682;Summit Entertainment;6272;1590;Tom Hardy, Gary Oldman, Noomi Rapace;Daniel Espinosa;640;410
+181330;2013;Kevin Hart: Let Me Explain;32230907;322440510;;0;74;7;Comedy;Documentary;;en;824;HartBeat Productions;68;193;Kevin Hart, Harry Ratchford, Will 'Spank' Horton;Leslie Small, Tim Story;670;530
+181533;2014;Night at the Museum: Secret of the Tomb;363204635;1137466210;;127000000;98;12;Adventure;Comedy;Fantasy;en;49977;Moving Picture Company;62;5663;Ben Stiller, Robin Williams, Owen Wilson;Shawn Levy;620;470
+184098;2014;Think Like a Man Too;70181428;651821820;;24000000;105;6;Comedy;Romance;;en;19034;Will Packer Productions;64;532;Kevin Hart, Gabrielle Union, Wendi McLendon-Covey;Tim Story;570;380
+184315;2014;Hercules;244819862;726886140;;100000000;99;7;Action;Adventure;;en;61927;Paramount;5763;3935;Dwayne Johnson, John Hurt, Ian McShane;Brett Ratner;600;470
+184341;2016;Hands of Stone;5000000;47127920;;20000000;105;8;Drama;;;en;21477;La Piedra Films;65;381;Edgar Ramírez, Usher, Robert De Niro;Jonathan Jakubowicz;660;540
+184345;2014;A Haunted House 2;25343661;173294860;;4000000;87;4;Comedy;Horror;;en;67963;Automatik Entertainment;61;1351;Marlon Wayans, Jaime Pressly, Cedric The Entertainer;Michael Tiddes;470;170
+184346;2014;Deliver Us from Evil;87937815;305771220;;30000000;118;7;Thriller;Crime;Horror;en;28517;LStar Capital;62;1962;Eric Bana, Edgar Ramírez, Olivia Munn;Scott Derrickson;620;400
+185008;2013;Yeh Jawaani Hai Deewani;46000000;38274660;;7700000;160;5;Romance;Comedy;;hi;129;Dharma Productions;72;243;Ranbir Kapoor, Deepika Padukone, Aditya Roy Kapoor;Ayan Mukerji;720;
+187017;2014;22 Jump Street;331333876;1917193370;;50000000;112;6;Crime;Comedy;Action;en;38716;Columbia Pictures;684;7679;Channing Tatum, Jonah Hill, Ice Cube;Phil Lord, Christopher Miller;700;710
+188161;2014;A Million Ways to Die in the West;86400000;431393000;;40000000;116;5;Comedy;Western;;en;26552;RGB Media;6027;3924;Seth MacFarlane, Charlize Theron, Liam Neeson;Seth MacFarlane;610;440
+188207;2014;The Legend of Hercules;61279452;188485380;;70000000;99;1;Action;Adventure;;en;27008;Millennium Media;4779;1273;Kellan Lutz, Gaia Weiss, Scott Adkins;Renny Harlin;420;220
+188927;2016;Star Trek Beyond;343500000;1588483400;;185000000;122;7;Action;Adventure;Science Fiction;en;66859;Skydance Media;6783;6422;Chris Pine, Zachary Quinto, Karl Urban;Justin Lin;700;680
+190847;2013;The Last Days on Mars;24084;240840;;10600000;98;8;Science Fiction;Thriller;Horror;en;12035;BFI;55;769;Liev Schreiber, Elias Koteas, Romola Garai;Ruairi Robinson;550;460
+190859;2014;American Sniper;542300000;3501590200;;58800000;133;12;War;Action;;en;78313;Warner Bros. Pictures;7431;12482;Bradley Cooper, Sienna Miller, Kyle Gallner;Clint Eastwood;730;720
+190955;2013;Blood Ties;2415472;424720;;25500000;128;8;Thriller;Crime;Drama;en;17264;Chi-Fou-Mi Productions;61;449;Clive Owen, Marion Cotillard, Billy Crudup;Guillaume Canet;650;450
+191714;2013;The Lunchbox;17240000;42351510;;3400000;104;9;Drama;Romance;;hi;12964;UTV Motion Pictures;73;667;Irrfan Khan, Nimrat Kaur, Nawazuddin Siddiqui;Ritesh Batra;780;760
+192102;2014;3 Days to Kill;53260230;306979990;;28000000;113;2;Action;Drama;Thriller;en;32278;Wonderland Sound and Vision;61;2077;Kevin Costner, Hailee Steinfeld, Connie Nielsen;McG;620;400
+192134;2013;Dom Hemingway;1300000;5235110;;7000000;93;11;Comedy;Crime;Drama;en;13244;Pinewood Studios;58;484;Jude Law, Richard E. Grant, Demián Bichir;Richard Shepard;610;550
+192136;2013;Mandela: Long Walk to Freedom;27300000;83230850;;35000000;141;11;Drama;History;;en;11002;Videovision Entertainment;68;506;Idris Elba, Naomie Harris, Terry Pheto;Justin Chadwick;710;600
+192141;2015;No Escape;54400000;272888720;;5000000;103;8;Thriller;Thriller;;en;2856;Living Films;6911;2427;Lake Bell, Pierce Brosnan, Owen Wilson;John Erick Dowdle;670;380
+193610;2014;The Other Woman;196800000;839111930;;40000000;109;4;Comedy;Romance;;en;25601;LBI Productions;6423;3440;Cameron Diaz, Leslie Mann, Kate Upton;Nick Cassavetes;600;390
+193613;2013;Metallica: Through the Never;7972967;34199670;;18000000;93;9;Music;;;en;10316;Exclusive Media;68;270;Dane DeHaan, James Hetfield, Lars Ulrich;Nimród Antal;710;610
+193756;2013;Lone Survivor;149295601;1250956010;;40000000;121;12;War;Action;Drama;en;42655;EFO Films;7431;4099;Mark Wahlberg, Taylor Kitsch, Emile Hirsch;Peter Berg;750;600
+193893;2014;Let's Be Cops;136600000;823907740;;17000000;104;8;Comedy;;;en;42604;WideAwake Pictures;65;2673;Jake Johnson, Damon Wayans Jr., Rob Riggle;Luke Greenfield;640;300
+194662;2014;Birdman or (The Unexpected Virtue of Ignorance);103215094;423405980;;18000000;120;10;Drama;Comedy;;en;52725;TSG Entertainment;7466;12467;Michael Keaton, Zach Galifianakis, Edward Norton;Alejandro G. Iñárritu;770;870
+195589;2014;Neighbors;270700000;1501574000;;18000000;97;5;Comedy;;;en;36156;Good Universe;6183;6737;Seth Rogen, Rose Byrne, Zac Efron;Nicholas Stoller;630;680
+196867;2014;Annie;133800000;859112620;;65000000;119;12;Comedy;Drama;Family;en;43693;Marcy Media;62;1242;Quvenzhané Wallis, Cameron Diaz, Jamie Foxx;Will Gluck;530;330
+198184;2015;Chappie;104399548;315692680;;49000000;120;3;Crime;Action;Science Fiction;en;110726;Columbia Pictures;6777;7652;Sharlto Copley, Dev Patel, Hugh Jackman;Neill Blomkamp;680;410
+198185;2014;Million Dollar Arm;38307627;364576270;;25000000;124;5;Drama;;;en;15919;Walt Disney Pictures;67;590;Jon Hamm, Aasif Mandvi, Alan Arkin;Craig Gillespie;700;560
+198277;2013;Begin Again;63500000;161706320;;8000000;104;9;Comedy;Music;Romance;en;21314;Likely Story;72;3655;Keira Knightley, Mark Ruffalo, Adam Levine;John Carney;740;620
+198663;2014;The Maze Runner;348319861;1024278620;;34000000;113;9;Action;Mystery;Science Fiction;en;182949;Ingenious Media;7179;16424;Dylan O'Brien, Kaya Scodelario, Will Poulter;Wes Ball;680;570
+200505;2014;Draft Day;28831145;288422370;;25000000;110;4;Drama;;;en;17852;Lionsgate;67;878;Kevin Costner, Chadwick Boseman, Jennifer Garner;Ivan Reitman;680;540
+201088;2015;Blackhat;17752940;80059800;;70000000;133;1;Crime;Thriller;Action;en;35828;Legendary Pictures;55;1951;Chris Hemsworth, Viola Davis, Tang Wei;Michael Mann;550;510
+202575;2013;The House of Magic;64197205;40910;;34000000;86;12;Family;Fantasy;Animation;en;25156;nWave Pictures;64;333;Cinda Adams, George Babbit, Brianne Brozey;Jérémie Degruson, Ben Stassen, Mimi Maynard;620;470
+203801;2015;The Man from U.N.C.L.E.;108100000;454451090;;75000000;116;8;Comedy;Action;Adventure;en;34842;Wigram Productions;71;6102;Henry Cavill, Armie Hammer, Alicia Vikander;Guy Ritchie;720;560
+203833;2013;The Book Thief;76586316;214884810;;0;131;11;Drama;;;en;22036;Studio Babelsberg;7488;4209;Sophie Nélisse, Geoffrey Rush, Emily Watson;Brian Percival;750;530
+204082;2013;Homefront;43058898;201588980;;22000000;100;11;Action;Thriller;;en;84556;Open Road Films;70;3360;Jason Statham, James Franco, Winona Ryder;Gary Fleder;650;400
+204922;2014;Before I Go to Sleep;15447154;32424570;;22000000;92;9;Thriller;Mystery;;en;33026;StudioCanal;65;1934;Nicole Kidman, Colin Firth, Mark Strong;Rowan Joffe;630;410
+205220;2013;Philomena;100100000;377099790;;12000000;98;11;Drama;;;en;11499;Baby Cow Productions;74;1548;Judi Dench, Steve Coogan, Sophie Kennedy Clark;Stephen Frears;760;770
+205584;2016;Gods of Egypt;150680864;311534640;;140000000;127;2;Action;Adventure;Fantasy;en;5424;Thunder Road;57;3937;Brenton Thwaites, Nikolaj Coster-Waldau, Gerard Butler;Alex Proyas;540;250
+205587;2014;The Judge;83700000;471193880;;50000000;141;10;Drama;;;en;92313;Village Roadshow Pictures;7306;3880;Robert Downey Jr., Robert Duvall, Vera Farmiga;David Dobkin;740;480
+205588;2016;Our Kind of Traitor;9930095;31531570;;4000000;108;5;Thriller;;;en;15658;StudioCanal;61;523;Carlos Acosta, Radivoje Bukvic, Stellan Skarsgård;Susanna White;620;570
+205596;2014;The Imitation Game;233600000;911256830;;14000000;113;11;History;Drama;Thriller;en;782;Bristol Automotive;8004;16504;Benedict Cumberbatch, Keira Knightley, Matthew Goode;Morten Tyldum;800;710
+205775;2015;In the Heart of the Sea;93900000;250207580;;100000000;122;12;Thriller;Drama;Adventure;en;25866;Imagine Entertainment;6754;3967;Chris Hemsworth, Cillian Murphy, Brendan Gleeson;Ron Howard;690;470
+206296;2014;The Last Five Years;292092;1454270;;3500000;94;11;Comedy;Drama;Music;en;11113;RADiUS-TWC;59;332;Anna Kendrick, Jeremy Jordan, Tamara Mintz;Richard LaGravenese;580;600
+206412;2000;Lisa Picard Is Famous;112521;1125210;;0;90;5;Comedy;Drama;;en;2355;GreeneStreet Films;57;7;Laura Kirk, Nat DeWolf, Griffin Dunne;Griffin Dunne;550;570
+206647;2015;Spectre;880674609;2000746090;;245000000;148;10;Action;Adventure;Thriller;en;121313;Metro-Goldwyn-Mayer;6541;10183;Daniel Craig, Christoph Waltz, Léa Seydoux;Sam Mendes;680;600
+208134;2013;Jackass Presents: Bad Grandpa;151831537;1020030190;;15000000;92;10;Comedy;;;en;2157;Paramount;6121;1512;Johnny Knoxville, Jackson Nicoll, Gregorio;Jeff Tremaine;650;540
+209112;2016;Batman v Superman: Dawn of Justice;873637528;3303601940;;250000000;152;3;Action;Adventure;Fantasy;en;72192;Warner Bros. Pictures;60;17518;Ben Affleck, Henry Cavill, Amy Adams;Zack Snyder;650;440
+209263;2013;Enough Said;25288872;175508720;;0;93;9;Comedy;Drama;Romance;en;841;Fox Searchlight Pictures;6721;791;Julia Louis-Dreyfus, James Gandolfini, Catherine Keener;Nicole Holofcener;700;780
+209274;2013;Ida;15298355;38270600;;2159280;82;10;Drama;;;pl;10688;Portobello Pictures;72;931;Agata Kulesza, Agata Trzebuchowska, Dawid Ogrodnik;Pawel Pawlikowski;740;910
+209403;2013;Bad Words;7800000;77796140;;9500000;89;9;Comedy;;;en;10211;Darko Entertainment;64;779;Jason Bateman, Kathryn Hahn, Allison Janney;Jason Bateman;660;570
+209451;2014;Jersey Boys;67347013;470470130;;40000000;134;6;Music;Drama;;en;12293;Warner Bros. Pictures;68;666;John Lloyd Young, Erich Bergen, Michael Lomenda;Clint Eastwood;680;540
+210577;2014;Gone Girl;369300000;1677671890;;61000000;149;10;Mystery;Thriller;Drama;en;90676;20th Century Fox;7893;18007;Ben Affleck, Rosamund Pike, Neil Patrick Harris;David Fincher;810;790
+210860;2015;Mortdecai;47318560;76961340;;60000000;107;1;Comedy;Adventure;;en;32972;Lionsgate;55;2570;Johnny Depp, Gwyneth Paltrow, Ewan McGregor;David Koepp;550;270
+211954;2013;Instructions Not Included;99067206;444672060;;5500000;122;7;Comedy;Drama;;es;33763;Pantelion Films;77;841;Eugenio Derbez, Karla Souza, Jessica Lindsey;Eugenio Derbez;750;550
+214756;2015;Ted 2;215863606;814763850;;68000000;115;6;Comedy;Fantasy;;en;10998;Smart Entertainment;6298;7197;Mark Wahlberg, Seth MacFarlane, Amanda Seyfried;Seth MacFarlane;630;480
+216015;2015;Fifty Shades of Grey;571000000;1661672300;;40000000;125;2;Drama;Romance;Thriller;en;154958;Focus Features;5883;11410;Dakota Johnson, Jamie Dornan, Jennifer Ehle;Sam Taylor-Johnson;420;460
+216282;2014;Into the Storm;160600000;476159590;;50000000;89;8;Action;Thriller;;en;26505;New Line Cinema;60;1943;Richard Armitage, Sarah Wayne Callies, Matt Walsh;Steven Quale;580;440
+218043;2014;Left Behind;19682924;140199240;;16000000;110;10;Thriller;Action;Science Fiction;en;52955;Stoney Lake Entertainment;42;1238;Nicolas Cage, Lea Thompson, Cassi Thomson;Vic Armstrong;310;120
+218778;2014;Alexander and the Terrible, Horrible, No Good, Very Bad Day;100654149;669541490;;28000000;81;10;Family;Comedy;;en;17328;Walt Disney Pictures;62;1287;Steve Carell, Jennifer Garner, Ed Oxenbould;Miguel Arteta;620;540
+222899;2014;About Last Night;49002684;486376840;;12500000;100;2;Comedy;Romance;;en;20605;Olive Bridge Entertainment;60;484;Kevin Hart, Michael Ealy, Regina Hall;Steve Pink;600;620
+222935;2014;The Fault in Our Stars;307166834;1248723500;;14000000;126;5;Romance;Drama;;en;42101;TSG Entertainment;7596;10876;Shailene Woodley, Ansel Elgort, Nat Wolff;Josh Boone;770;690
+222936;2015;Aloha;26250020;210671160;;37000000;105;5;Drama;Comedy;Romance;en;30106;Vinyl Films;5493;1945;Bradley Cooper, Rachel McAdams, Emma Stone;Cameron Crowe;540;400
+223485;2015;Slow West;229094;2290940;;2000000;84;5;Western;Action;Thriller;en;11983;DMC Film;6679;937;Kodi Smit-McPhee, Caren Pistorius, Aorere Paki;John Maclean;690;720
+223702;2016;Sausage Party;140705322;976856860;;19000000;89;7;Adventure;Animation;Comedy;en;6956;Columbia Pictures;5746;7000;Seth Rogen, Kristen Wiig, Jonah Hill;Conrad Vernon, Greg Tiernan;610;660
+224141;2014;Into the Woods;212902372;1280023720;;50000000;125;12;Fantasy;Comedy;Music;en;24053;Walt Disney Pictures;58;4139;Anna Kendrick, Meryl Streep, Chris Pine;Rob Marshall;590;690
+225565;2014;That Awkward Moment;45600000;260689550;;8000000;94;1;Comedy;Romance;;en;27364;Treehouse Pictures;6151;2578;Zac Efron, Michael B. Jordan, Miles Teller;Tom Gormican;610;360
+225574;2014;Non-Stop;222800000;921686000;;50000000;106;2;Action;Thriller;Mystery;en;23422;TF1;68;5160;Liam Neeson, Julianne Moore, Scoot McNairy;Jaume Collet-Serra;690;560
+225886;2014;Sex Tape;126069509;385434730;;40000000;94;7;Comedy;;;en;52108;Escape Artists;54;3957;Jason Segel, Cameron Diaz, Rob Corddry;Jake Kasdan;510;360
+226354;2013;The Christmas Candle;2476775;22586200;;0;100;11;Drama;Family;;en;4614;EchoLight Studios;59;38;Hans Matheson, Samantha Barks, Lesley Manville;John Stephenson;630;330
+226486;2014;Tammy;100500000;845254320;;20000000;97;7;Comedy;;;en;16401;Gary Sanchez Productions;53;1165;Melissa McCarthy, Susan Sarandon, Kathy Bates;Ben Falcone;490;390
+226857;2014;Endless Love;34100000;234382500;;20000000;103;2;Drama;Romance;;en;20038;Bluegrass Films;69;1642;Gabriella Wilde, Alex Pettyfer, Bruce Greenwood;Shana Feste;620;300
+227156;2014;The Giver;66980456;450903740;;25000000;97;8;Drama;Science Fiction;;en;45637;The Weinstein Company;6549;4315;Brenton Thwaites, Jeff Bridges, Meryl Streep;Phillip Noyce;640;470
+227159;2014;Horrible Bosses 2;107700000;544453570;;42000000;108;11;Comedy;;;en;32691;New Line Cinema;62;3987;Jason Bateman, Jason Sudeikis, Charlie Day;Sean Anders;630;400
+227306;2014;Unbroken;163400000;1156378950;;65000000;137;12;Drama;War;;en;39737;Legendary Pictures;7437;3961;Jack O'Connell, Miyavi, Domhnall Gleeson;Angelina Jolie;720;590
+227348;2014;Paranormal Activity: The Marked Ones;90894962;324623720;;5000000;84;1;Horror;Thriller;;en;27102;Blumhouse Productions;54;1384;Andrew Jacobs, Jorge Diaz, Gabrielle Walsh;Christopher Landon;500;420
+227707;2013;The Adventurer: The Curse of the Midas Box;6399;63990;;25000000;99;12;Fantasy;Adventure;Family;en;19651;uMedia;56;218;Aneurin Barnard, Michael Sheen, Lena Headey;Jonathan Newman;550;390
+227719;2015;Project Almanac;33200000;223482410;;12000000;106;1;Science Fiction;Thriller;Drama;en;41185;Insurge Pictures;68;2502;Amy Landecker, Sofia Black-D'Elia, Virginia Gardner;Dean Israelite;630;470
+227735;2014;Dolphin Tale 2;52424533;420245330;;36000000;107;9;Family;Drama;;en;14735;Alcon Entertainment;70;339;Morgan Freeman, Ashley Judd, Nathan Gamble;Charles Martin Smith;640;580
+227783;2014;The Nut Job;122500000;642515410;;42000000;85;1;Animation;Comedy;Family;en;25629;Open Road Films;58;905;Will Arnett, Brendan Fraser, Liam Neeson;Peter Lepeniotis;570;370
+227973;2015;The Peanuts Movie;246233113;1301784110;;99000000;88;11;Comedy;Animation;Family;en;32126;Blue Sky Studios;69;1537;Noah Schnapp, Bill Melendez, Hadley Belle Miller;Steve Martino;700;670
+228066;2015;Victor Frankenstein;34200000;57750760;;40000000;109;11;Drama;Science Fiction;Thriller;en;18732;Davis Entertainment;5946;2051;Daniel Radcliffe, James McAvoy, Jessica Brown Findlay;Paul McGuigan;590;360
+228150;2014;Fury;211817906;858179060;;68000000;135;10;War;Drama;Action;en;118003;Columbia Pictures;7526;11482;Brad Pitt, Shia LaBeouf, Logan Lerman;David Ayer;760;640
+228161;2015;Home;368871007;1773975100;;135000000;94;3;Fantasy;Comedy;Animation;en;43556;DreamWorks Animation;68;3807;Jim Parsons, Rihanna, Steve Martin;Tim Johnson;650;550
+228165;2015;The SpongeBob Movie: Sponge Out of Water;311594032;1629940320;;74000000;93;1;Family;Adventure;Comedy;en;52456;Paramount Animation;61;2263;Tom Kenny, Antonio Banderas, Bill Fagerbakke;Paul Tibbitt, Mike Mitchell;600;620
+228194;2014;The Hundred-Foot Journey;89500000;542408210;;22000000;122;8;Drama;Comedy;;en;13791;Amblin Entertainment;73;1379;Helen Mirren, Om Puri, Manish Dayal;Lasse Hallström;730;550
+228203;2015;McFarland, USA;45710059;444824100;;0;128;2;Drama;Family;;en;33669;Mayhem Pictures;75;782;Kevin Costner, Maria Bello, Ramiro Rodriguez;Niki Caro;740;600
+228205;2015;The Longest Ride;63013281;374461170;;34000000;128;4;Drama;Romance;;en;35399;Fox 2000 Pictures;76;3034;Scott Eastwood, Britt Robertson, Alan Alda;George Tillman Jr.;700;330
+228326;2014;The Book of Life;97437106;501515430;;50000000;95;10;Animation;Adventure;Comedy;en;44684;Reel FX Creative Studios;75;2555;Diego Luna, Zoe Saldana, Channing Tatum;Jorge R. Gutiérrez;720;670
+228967;2014;The Interview;12342632;61051750;;44000000;113;12;Action;Comedy;;en;57559;Point Grey Pictures;62;5554;James Franco, Seth Rogen, Randall Park;Evan Goldberg, Seth Rogen;650;520
+228970;2014;Wild;52501541;378803560;;15000000;115;1;Drama;;;en;2118;bob industries;70;2382;Reese Witherspoon, Laura Dern, Gaby Hoffmann;Jean-Marc Vallée;710;740
+231576;2014;Wish I Was Here;5483299;35912990;;5500000;107;7;Drama;Comedy;;en;1141;Wild Bunch;65;697;Zach Braff, Joey King, Pierce Gagnon;Zach Braff;660;430
+232672;2014;Blended;128000000;463062080;;40000000;117;5;Comedy;Romance;;en;5937;GulfStream Pictures;6873;3356;Adam Sandler, Drew Barrymore, Wendi McLendon-Covey;Frank Coraci;650;310
+232679;2014;When the Game Stands Tall;30127963;301279630;;15000000;115;8;Drama;;;en;14186;Mandalay Pictures;66;336;Jim Caviezel, Alexander Ludwig, Michael Chiklis;Thomas Carter;660;410
+235260;2014;Son of God;67800064;597000640;;22000000;138;2;Drama;;;en;31868;Hearst Entertainment Productions;69;287;Diogo Morgado, Amber Rose Revah, Greg Hicks;Christopher Spencer;570;370
+235271;2014;Addicted;17534314;173907700;;0;105;10;Drama;Thriller;;en;24853;Lionsgate;59;381;Sharon Leal, Boris Kodjoe, John Newberg;Bille Woodruff;500;320
+236751;2014;Heaven Is for Real;101300000;914432530;;12000000;99;4;Drama;;;en;48312;TriStar Pictures;67;742;Greg Kinnear, Kelly Reilly, Thomas Haden Church;Randall Wallace;580;470
+238603;2014;Earth to Echo;45300000;389348420;;13000000;89;6;Family;Adventure;Science Fiction;en;1232;Panay Films;59;563;Teo Halm, Astro, Reese Hartwig;Dave Green;570;530
+238615;2015;Self/less;31807156;122796910;;26000000;117;7;Science Fiction;Mystery;Thriller;en;41419;Ram Bergman Productions;64;2982;Ryan Reynolds, Natalie Martinez, Matthew Goode;Tarsem Singh;650;340
+238636;2014;The Purge: Anarchy;111928365;719628000;;9000000;104;7;Horror;Thriller;;en;52289;Why Not Productions;66;6223;Frank Grillo, Carmen Ejogo, Zach Gilford;James DeMonaco;640;500
+239563;2014;St. Vincent;54837234;441377120;;13000000;102;10;Comedy;;;en;20482;Chernin Entertainment;7106;1799;Bill Murray, Melissa McCarthy, Naomi Watts;Theodore Melfi;720;640
+239566;2014;Get on Up;33448971;307031000;;30000000;139;8;Drama;Music;;en;10154;Jagged Films;68;495;Chadwick Boseman, Nelsan Ellis, Dan Aykroyd;Tate Taylor;690;710
+239571;2014;The Best of Me;35926213;267662130;;26000000;117;10;Drama;Romance;;en;26231;Relativity Media;75;2483;James Marsden, Michelle Monaghan, Luke Bracey;Michael Hoffman;670;290
+239573;2015;Unfinished Business;14431253;102195010;;35000000;91;3;Comedy;;;en;1388;Studio Babelsberg;55;770;Vince Vaughn, Dave Franco, Tom Wilkinson;Ken Scott;540;320
+239678;2014;This Is Where I Leave You;41300000;342963200;;19800000;103;9;Drama;Comedy;;en;20908;Spring Creek Pictures;66;1261;Jason Bateman, Tina Fey, Jane Fonda;Shawn Levy;660;440
+240832;2014;Lucy;458863600;1266636000;;40000000;89;7;Action;Science Fiction;;fr;43534;EuropaCorp;6445;15569;Scarlett Johansson, Morgan Freeman, Choi Min-sik;Luc Besson;640;610
+241239;2014;A Most Violent Year;12007070;57491340;;20000000;124;12;Crime;Drama;Thriller;en;21151;Participant;6596;1353;Oscar Isaac, Jessica Chastain, David Oyelowo;J.C. Chandor;700;790
+241251;2015;The Boy Next Door;52425855;354233800;;4000000;91;1;Thriller;;;en;21861;Smart Entertainment;49;1982;Jennifer Lopez, Ryan Guzman, Kristin Chenoweth;Rob Cohen;470;300
+241257;2015;Regression;17671101;550390;;20000000;106;10;Horror;Mystery;Thriller;en;19459;The Weinstein Company;56;1732;Ethan Hawke, David Thewlis, Emma Watson;Alejandro Amenábar;560;320
+241259;2016;Alice Through the Looking Glass;299457024;770413810;;170000000;113;5;Adventure;Family;Fantasy;en;57918;Legend3D;656;6205;Mia Wasikowska, Johnny Depp, Helena Bonham Carter;James Bobin;620;340
+241554;2015;Run All Night;71561644;264616440;;50000000;114;3;Action;Crime;Thriller;en;36644;RatPac Entertainment;6406;2699;Liam Neeson, Ed Harris, Joel Kinnaman;Jaume Collet-Serra;660;590
+241771;2014;Beyond the Lights;14600000;146187270;;7000000;116;11;Romance;Drama;;en;1277;Black Entertainment Television;69;354;Gugu Mbatha-Raw, Nate Parker, Minnie Driver;Gina Prince-Bythewood;680;730
+242095;2014;The Signal;2665322;6008960;;4000000;97;3;Thriller;Science Fiction;;en;17642;Signal Film Group;5977;1588;Brenton Thwaites, Olivia Cooke, Beau Knapp;William Eubank;600;540
+242512;2014;Ouija;103600000;508560100;;5000000;89;10;Horror;;;en;43754;White Noise Factory;51;2564;Olivia Cooke, Ana Coto, Daren Kagasoff;Stiles White;450;380
+242575;2013;Good Day, Ramon;5104868;1543560;;4000000;119;10;Drama;;;en;8493;Beanca Films;79;118;Kristyan Ferrer, Ingeborg Schöner, Adriana Barraza;Jorge Ramírez Suárez;760;
+242582;2014;Nightcrawler;50300000;323812170;;8500000;118;10;Crime;Drama;Thriller;en;60771;Sierra/Affinity;7706;10382;Jake Gyllenhaal, Rene Russo, Bill Paxton;Dan Gilroy;780;760
+243938;2015;Hot Tub Time Machine 2;64800000;123146510;;36000000;93;2;Comedy;;;en;16205;Paramount;5227;873;Rob Corddry, Craig Robinson, Clark Duke;Steve Pink;500;290
+243940;2015;The Lazarus Effect;64110728;258015700;;3300000;83;1;Horror;Thriller;Mystery;en;14846;Lionsgate;53;1365;Olivia Wilde, Mark Duplass, Evan Peters;David Gelb;520;310
+244267;2014;I Origins;481234;3364720;;1000000;106;7;Science Fiction;Drama;;en;31967;Bersin Pictures;7593;3134;Michael Pitt, Steven Yeun, Astrid Bergès-Frisbey;Mike Cahill;730;570
+244403;2014;Rudderless;58293;582930;;5000000;105;10;Music;Drama;Comedy;en;1149;Amberdale Productions;72;290;Billy Crudup, Anton Yelchin, Felicity Huffman;William H. Macy;740;520
+244534;2014;Happy Christmas;30312;303120;;70000;82;7;Comedy;Drama;;en;6142;Lucky Coffee Productions;51;152;Anna Kendrick, Melanie Lynskey, Mark Webber;Joe Swanberg;540;700
+244772;2014;The Skeleton Twins;5300000;52843090;;1000000;92;6;Drama;;;en;165;Venture Forth;66;608;Kristen Wiig, Bill Hader, Luke Wilson;Craig Johnson;680;740
+244783;2014;Song One;32251;322510;;6000000;86;1;Drama;;;en;11357;Worldview Entertainment;57;220;Anne Hathaway, Johnny Flynn, Ben Rosenfield;Kate Barker-Froyland;580;480
+244786;2014;Whiplash;13092000;130920000;;3300000;107;10;Drama;Music;;en;9712;Bold Films;8383;14534;Miles Teller, J.K. Simmons, Melissa Benoist;Damien Chazelle;850;890
+245700;2014;Mr. Turner;22179785;39585000;;0;150;10;History;Drama;;en;12421;Film4 Productions;65;496;Timothy Spall, Paul Jesson, Dorothy Atkinson;Mike Leigh;680;940
+245703;2016;Midnight Special;6740647;37122820;;18000000;112;2;Adventure;Drama;Science Fiction;en;22084;Faliro House Productions;6225;1809;Michael Shannon, Joel Edgerton, Kirsten Dunst;Jeff Nichols;660;760
+245846;2015;Strangerland;111107;174720;;10000000;111;7;Drama;Thriller;Mystery;en;10304;Worldview Entertainment;53;243;Nicole Kidman, Joseph Fiennes, Hugo Weaving;Kim Farrant;520;420
+245916;2014;Kill the Messenger;5200000;24508460;;5000000;112;10;Crime;Drama;Mystery;en;13495;The Combine;6633;814;Jeremy Renner, Robert Patrick, Jena Sims;Michael Cuesta;690;600
+246403;2014;Tusk;1882074;18267050;;3000000;102;9;Comedy;Horror;;en;45133;Phase 4 Films;5468;1315;Justin Long, Michael Parks, Haley Joel Osment;Kevin Smith;530;550
+246655;2016;X-Men: Apocalypse;543934787;1554424890;;178000000;144;5;Action;Adventure;Science Fiction;en;110644;The Donners' Company;65;12558;James McAvoy, Michael Fassbender, Jennifer Lawrence;Bryan Singer;690;520
+248774;2014;Obvious Child;3123963;31239630;;0;85;6;Comedy;Romance;;en;1145;Sundial Pictures;651;413;Jenny Slate, Jake Lacy, Gaby Hoffmann;Gillian Robespierre;670;760
+249164;2014;If I Stay;78300000;504748430;;11000000;106;8;Drama;;;en;26473;New Line Cinema;7374;4090;Chloë Grace Moretz, Mireille Enos, Jamie Blackley;R.J. Cutler;670;460
+250124;2015;The Diary of a Teenage Girl;1477002;14770020;;2000000;102;8;Drama;Romance;;en;25616;Archer Gray;66;696;Bel Powley, Alexander Skarsgård, Kristen Wiig;Marielle Heller;680;870
+250546;2014;Annabelle;257000000;842842520;;6500000;99;10;Horror;;;en;41412;Atomic Monster;5771;5904;Ward Horton, Annabelle Wallis, Alfre Woodard;John R. Leonetti;540;370
+251321;2014;Aloft;53086;530860;;8000000;112;2;Drama;;;en;12266;Buffalo Gal Pictures;55;119;Jennifer Connelly, Cillian Murphy, Mélanie Laurent;Claudia Llosa;530;340
+252680;2014;Moms' Night Out;10429707;104297070;;5000000;98;3;Comedy;;;en;16935;TriStar Pictures;5625;283;Sarah Drew, Sean Astin, Patricia Heaton;Andrew Erwin, Jon Erwin;530;250
+253235;2014;And So It Goes;25312387;151608010;;18000000;94;7;Comedy;Drama;Romance;en;10556;Castle Rock Entertainment;61;438;Michael Douglas, Diane Keaton, Sterling Jerins;Rob Reiner;590;380
+253331;2014;Black or White;21571189;215711890;;9000000;121;9;Drama;;;en;11119;Treehouse Pictures;68;335;Kevin Costner, Octavia Spencer, Gillian Jacobs;Mike Binder;660;450
+253412;2015;Everest;203427584;434822700;;55000000;121;9;Adventure;Drama;History;en;25168;Cross Creek Pictures;6816;4718;Jason Clarke, Ang Phula Sherpa, Thomas M. Wright;Baltasar Kormákur;710;640
+253450;2015;The Assassin;632542;6325420;;15000000;105;8;Action;Drama;History;zh;2044;Sil-Metropole Organisation;64;482;Shu Qi, Chang Chen, Yun Zhou;Hsiao-Hsien Hou;630;820
+254128;2015;San Andreas;473990832;1551908320;;110000000;114;5;Action;Drama;Thriller;en;76533;New Line Cinema;62;8273;Dwayne Johnson, Carla Gugino, Alexandra Daddario;Brad Peyton;610;430
+254470;2015;Pitch Perfect 2;287144079;1842962300;;29000000;115;5;Comedy;Music;;en;50667;Brownstone Productions;69;5187;Anna Kendrick, Rebel Wilson, Hailee Steinfeld;Elizabeth Banks;640;630
+254473;2014;Brick Mansions;71416730;203968290;;28000000;90;4;Action;Crime;Drama;en;28081;EuropaCorp;59;1466;Paul Walker, David Belle, RZA;Camille Delamarre;560;400
+254904;2014;The November Man;32600000;250181190;;15000000;108;8;Crime;Action;Thriller;en;3216;SPD Films;61;1418;Pierce Brosnan, Luke Bracey, Olga Kurylenko;Roger Donaldson;630;380
+255343;2014;Escobar: Paradise Lost;3758328;1957920;;17000000;120;10;Thriller;Romance;;en;30562;uFilm;63;756;Benicio Del Toro, Josh Hutcherson, Claudia Traisac;Andrea Di Stefano;650;560
+256274;2014;As Above, So Below;41900000;213211000;;5000000;93;8;Horror;Thriller;;en;49675;Brothers Dowdle Productions;67;3265;Perdita Weeks, Ben Feldman, Edwin Hodge;John Erick Dowdle;620;390
+256917;2014;The Water Diviner;15520023;41966410;;22500000;112;12;War;Drama;;en;23325;Fear of God Films;68;1183;Russell Crowe, Olga Kurylenko, Jai Courtney;Russell Crowe;700;500
+256924;2015;Danny Collins;10835752;56370660;;10000000;107;3;Music;Comedy;Drama;en;11142;ShivHans Pictures;68;494;Al Pacino, Annette Bening, Jennifer Garner;Dan Fogelman;700;580
+256961;2015;Paul Blart: Mall Cop 2;107597242;710381900;;38000000;94;4;Action;Comedy;Family;en;36743;Columbia Pictures;51;1485;Kevin James, Raini Rodriguez, Eduardo Verástegui;Andy Fickman;440;130
+256962;2015;Little Boy;6500000;64859610;;20000000;106;4;Comedy;Drama;War;en;12246;Santa Fe Films;72;504;Jakob Salvati, Emily Watson, David Henrie;Alejandro Monteverde;730;300
+257088;2015;Point Break;133700000;287824810;;105000000;113;12;Action;Adventure;Crime;en;36791;Studio Babelsberg;59;2182;Edgar Ramírez, Luke Bracey, Ray Winstone;Ericson Core;530;340
+257091;2015;Get Hard;111800000;904114530;;40000000;100;3;Comedy;;;en;2546;Gary Sanchez Productions;60;2602;Will Ferrell, Kevin Hart, Alison Brie;Etan Cohen;600;340
+257211;2015;The Intern;194564672;757646720;;35000000;121;9;Comedy;;;en;48469;Warner Bros. Pictures;7204;6430;Robert De Niro, Anne Hathaway, Rene Russo;Nancy Meyers;710;510
+257344;2015;Pixels;244900000;787475850;;88000000;105;7;Action;Comedy;Science Fiction;en;62991;Columbia Pictures;5726;7278;Adam Sandler, Kevin James, Michelle Monaghan;Chris Columbus;560;270
+257445;2015;Goosebumps;158200000;800803790;;58000000;103;8;Adventure;Horror;Comedy;en;46902;Original Film;63;3619;Jack Black, Dylan Minnette, Odeya Rush;Rob Letterman;630;600
+258489;2016;The Legend of Tarzan;356743061;1266430610;;180000000;109;6;Fantasy;Action;Adventure;en;36268;Village Roadshow Pictures;5901;6066;Alexander Skarsgård, Rory J Saper, Christian Stevens;David Yates;620;440
+258509;2015;Alvin and the Chipmunks: The Road Chip;233755553;858869870;;90000000;92;12;Family;Adventure;Comedy;en;53495;TSG Entertainment;60;1565;Jason Lee, Justin Long, Matthew Gray Gubler;Walt Becker;490;330
+259693;2016;The Conjuring 2;321800000;1025161400;;40000000;134;6;Horror;;;en;79287;New Line Cinema;7292;8067;Vera Farmiga, Patrick Wilson, Madison Wolfe;James Wan;730;650
+259694;2016;How to Be Single;112343513;468435130;;38000000;110;2;Comedy;Romance;;en;3671;New Line Cinema;62;3114;Dakota Johnson, Rebel Wilson, Leslie Mann;Christian Ditter;610;510
+259943;2014;Coming Home;47587984;3776070;;0;111;5;Drama;Romance;;zh;9667;LeVision Pictures;73;181;Gong Li, Daoming Chen, Huiwen Zhang;Yimou Zhang;720;810
+260346;2014;Taken 3;325800000;892564240;;48000000;109;12;Thriller;Action;;en;85844;EuropaCorp;62;5529;Liam Neeson, Forest Whitaker, Maggie Grace;Olivier Megaton;600;260
+261023;2015;Black Mass;99975678;625756780;;53000000;123;9;Drama;Crime;History;en;25327;Vendian Entertainment;6507;3226;Johnny Depp, Benedict Cumberbatch, Dakota Johnson;Scott Cooper;690;680
+262500;2015;Insurgent;297002527;1301790720;;110000000;119;3;Action;Adventure;Science Fiction;en;66365;Summit Entertainment;64;9726;Shailene Woodley, Ansel Elgort, Theo James;Robert Schwentke;620;420
+262504;2016;Allegiant;179246868;661840510;;110000000;120;3;Adventure;Science Fiction;Action;en;56681;Mandeville Films;61;6397;Shailene Woodley, Theo James, Jeff Daniels;Robert Schwentke;570;330
+264644;2015;Room;35401758;146776540;;13000000;118;10;Drama;Thriller;;en;31334;Téléfilm Canada;8025;8900;Brie Larson, Jacob Tremblay, Sean Bridgers;Lenny Abrahamson;810;860
+264656;2014;The Homesman;3442853;24299890;;16000000;122;5;Western;Drama;;en;18507;The Javelina Film Company;65;757;Tommy Lee Jones, Hilary Swank, Grace Gummer;Tommy Lee Jones;660;680
+264999;2015;Magic Mike XXL;117800000;660130570;;14800000;115;7;Comedy;Drama;Music;en;21517;Warner Bros. Pictures;62;1729;Channing Tatum, Joe Manganiello, Matt Bomer;Gregory Jacobs;560;600
+266396;2015;The Gunman;13644292;106647490;;40000000;115;2;Action;Drama;Crime;en;1426;StudioCanal;57;916;Sean Penn, Idris Elba, Jasmine Trinca;Pierre Morel;580;390
+266647;2015;Pan;128388320;350883200;;150000000;111;9;Fantasy;Adventure;Family;en;283;Moving Picture Company;60;2648;Levi Miller, Hugh Jackman, Garrett Hedlund;Joe Wright;570;360
+266856;2014;The Theory of Everything;123726688;358935370;;15000000;123;11;Drama;Romance;;en;22016;Working Title Films;7855;10307;Eddie Redmayne, Felicity Jones, Tom Prior;James Marsh;770;710
+267860;2016;London Has Fallen;205754447;625242600;;60000000;99;3;Action;Thriller;Thriller;en;39632;Millennium Media;6189;4530;Gerard Butler, Aaron Eckhart, Morgan Freeman;Babak Najafi;590;280
+267935;2016;The BFG;195243411;554837700;;140000000;117;6;Adventure;Family;Fantasy;en;50118;Walt Disney Pictures;63;3233;Mark Rylance, Ruby Barnhill, Penelope Wilton;Steven Spielberg;630;660
+268238;2015;The Second Best Exotic Marigold Hotel;86000000;330782660;;10000000;122;2;Drama;Comedy;;en;13464;Fox Searchlight Pictures;64;687;Judi Dench, Maggie Smith, Bill Nighy;John Madden;650;510
+268920;2015;Hot Pursuit;51680201;345802010;;35000000;87;5;Comedy;Action;Crime;en;20657;New Line Cinema;57;1548;Reese Witherspoon, Sofía Vergara, Matthew Del Negro;Anne Fletcher;510;310
+270487;2016;Hail, Caesar!;63647656;304980850;;22000000;106;2;Comedy;Crime;Mystery;en;23549;Universal Pictures;5915;3643;Josh Brolin, George Clooney, Alden Ehrenreich;Ethan Coen, Joel Coen;630;720
+270938;2014;Falcon Rising;11774;117740;;4500000;103;9;Adventure;Action;;en;24049;Strohberry Films;63;324;Michael Jai White, Neal McDonough, Jimmy Navarro;Ernie Barbarash;580;490
+270946;2014;Penguins of Madagascar;373552094;838509110;;132000000;92;11;Family;Animation;Adventure;en;81517;DreamWorks Animation;6527;3977;Tom McGrath, Chris Miller, Christopher Knights;Eric Darnell, Simon J. Smith;660;530
+271331;2014;United Passions;168832;6070;;30000000;110;6;Drama;;;en;4085;Thelma Films;34;46;Gérard Depardieu, Sam Neill, Tim Roth;Frédéric Auburtin;210;10
+271718;2015;Trainwreck;140795793;1102127000;;35000000;125;7;Comedy;Romance;;en;31253;Apatow Productions;58;2501;Amy Schumer, Bill Hader, Brie Larson;Judd Apatow;620;750
+271969;2016;Ben-Hur;94061311;264104770;;100000000;125;8;Action;History;Adventure;en;24277;Metro-Goldwyn-Mayer;57;1610;Jack Huston, Toby Kebbell, Rodrigo Santoro;Timur Bekmambetov;570;380
+272693;2015;The DUFF;43528634;340303430;;8500000;100;2;Romance;Comedy;;en;23487;Wonderland Sound and Vision;68;4278;Mae Whitman, Bella Thorne, Robbie Amell;Ari Sandel;640;560
+272878;2015;Max;44000000;426562550;;20000000;111;6;Adventure;Drama;Family;en;38292;Reel Chefs Catering;713;781;Thomas Haden Church, Josh Wiggins, Luke Kleintank;Boaz Yakin;660;470
+273248;2015;The Hateful Eight;155760117;541174160;;44000000;188;12;Drama;Mystery;Western;en;50219;The Weinstein Company;7751;13728;Samuel L. Jackson, Kurt Russell, Jennifer Jason Leigh;Quentin Tarantino;780;680
+273481;2015;Sicario;84872444;468892930;;30000000;122;9;Action;Crime;Thriller;en;73853;Thunder Road;7395;8210;Emily Blunt, Josh Brolin, Benicio Del Toro;Denis Villeneuve;770;820
+273895;2014;Selma;66787908;520769080;;20000000;127;12;History;Drama;;en;11639;Pathé;74;2123;David Oyelowo, Carmen Ejogo, Oprah Winfrey;Ava DuVernay;750;790
+273899;2015;Stonewall;187674;1876740;;13500000;129;9;Drama;History;;en;11827;Centropolis Entertainment;61;130;Jeremy Irvine, Jonny Beauchamp, Joey King;Roland Emmerich;530;300
+274167;2015;Daddy's Home;242786137;1503571370;;50000000;96;12;Comedy;;;en;30233;Paramount;63;3072;Will Ferrell, Mark Wahlberg, Linda Cardellini;Sean Anders;620;420
+274479;2015;Joy;101134059;564512320;;60000000;124;12;Drama;Comedy;;en;38696;Fox 2000 Pictures;6529;3972;Jennifer Lawrence, Robert De Niro, Bradley Cooper;David O. Russell;660;560
+276907;2015;Legend;42972994;18729940;;25000000;132;9;Crime;Thriller;;en;43358;Working Title Films;70;3676;Tom Hardy, Emily Browning, Taron Egerton;Brian Helgeland;690;550
+277216;2015;Straight Outta Compton;201600000;1611977850;;28000000;147;8;Drama;Music;History;en;38783;Broken Chair Flickz;7786;3732;O'Shea Jackson Jr., Corey Hawkins, Jason Mitchell;F. Gary Gray;780;720
+278927;2016;The Jungle Book;966550600;3640011230;;175000000;106;4;Family;Adventure;Drama;en;55096;Walt Disney Pictures;6862;7834;Neel Sethi, Bill Murray, Ben Kingsley;Jon Favreau;740;770
+280092;2015;Insidious: Chapter 3;112983889;522185580;;10000000;97;5;Horror;Thriller;Mystery;en;40338;Blumhouse Productions;6281;3231;Dermot Mulroney, Stefanie Scott, Angus Sampson;Leigh Whannell;610;520
+281957;2015;The Revenant;532950503;1836378940;;135000000;157;12;Western;Drama;Adventure;en;50201;Monarchy Enterprises S.a.r.l.;753;17606;Leonardo DiCaprio, Tom Hardy, Will Poulter;Alejandro G. Iñárritu;800;760
+283445;2015;Sinister 2;53329150;277409550;;10000000;97;8;Horror;;;en;21971;Tank Caterpillar;59;2042;James Ransone, Shannyn Sossamon, Robert Daniel Sloan;Ciarán Foy;530;320
+284293;2014;Still Alice;44779195;187543710;;5000000;100;12;Drama;;;en;22079;Shriver Films;75;2962;Julianne Moore, Alec Baldwin, Kristen Stewart;Richard Glatzer, Wash Westmoreland;750;720
+284296;2014;Top Five;25434291;253174710;;0;102;12;Drama;Comedy;;en;13443;Paramount;61;441;Chris Rock, Rosario Dawson, Gabrielle Union;Chris Rock;640;810
+284536;2014;The Gambler;39171130;336809920;;25000000;111;12;Thriller;Crime;Drama;en;20717;Paramount;59;1308;Mark Wahlberg, Jessica Lange, John Goodman;Rupert Wyatt;600;550
+285783;2015;The Walk;61181942;101375020;;35000000;123;9;History;Drama;Adventure;en;30398;TriStar Pictures;6984;3068;Joseph Gordon-Levitt, Charlotte Le Bon, Guillaume Baillargeon;Robert Zemeckis;730;700
+285923;2007;Grindhouse;25422088;250378970;;67000000;191;4;Thriller;Action;Horror;en;29593;Yer Dead Productions;698;1605;Kurt Russell, Rose McGowan, Danny Trejo;Robert Rodriguez, Eli Roth, Quentin Tarantino;750;770
+286217;2015;The Martian;631058917;2284336630;;108000000;141;9;Drama;Adventure;Science Fiction;en;71206;Scott Free Productions;7684;19123;Matt Damon, Jessica Chastain, Kristen Wiig;Ridley Scott;800;800
+286565;2015;Paper Towns;85500000;320003040;;12000000;109;6;Mystery;Drama;Romance;en;53536;Fox 2000 Pictures;6139;4961;Nat Wolff, Cara Delevingne, Austin Abrams;Jake Schreier;620;560
+287424;2015;Maggie;187112;1871120;;4000000;95;5;Horror;Drama;;en;2448;Sly Predator;54;1527;Arnold Schwarzenegger, Abigail Breslin, Joely Richardson;Henry Hobson;560;520
+287903;2015;Krampus;61800000;427254750;;15000000;98;11;Horror;Comedy;Fantasy;en;32343;Universal Pictures;62;2073;Adam Scott, Toni Collette, David Koechner;Michael Dougherty;620;490
+287948;2015;The Transporter Refueled;72629670;160296700;;25000000;95;9;Action;Thriller;Crime;en;47249;EuropaCorp;55;1412;Ed Skrein, Loan Chabanol, Ray Stevenson;Camille Delamarre;520;320
+290595;2016;The Huntsman: Winter's War;164989338;483901900;;115000000;114;4;Action;Adventure;Drama;en;37009;Roth Films;63;4675;Chris Hemsworth, Jessica Chastain, Charlize Theron;Cedric Nicolas-Troyan;610;350
+290751;2015;Secret in Their Eyes;34854990;201801550;;19500000;111;10;Thriller;Mystery;Drama;en;21705;Ingenious Media;64;1292;Chiwetel Ejiofor, Nicole Kidman, Julia Roberts;Billy Ray;630;450
+290864;2014;Kung Fu Jungle;129115;1297840;;25000000;100;10;Action;Thriller;Crime;zh;24733;Heart & Soul Production;68;415;Donnie Yen, Baoqiang Wang, Charlie Yeung;Teddy Chan;640;660
+291270;2015;Anomalisa;5700000;37592860;;8000000;90;12;Animation;Drama;Romance;en;15528;Starburns Industries;71;1635;David Thewlis, Jennifer Jason Leigh, Tom Noonan;Duke Johnson, Charlie Kaufman;720;880
+291805;2016;Now You See Me 2;334900000;650755400;;120000000;129;6;Crime;Thriller;Action;en;57812;Summit Entertainment;6827;10434;Jesse Eisenberg, Mark Ruffalo, Woody Harrelson;Jon M. Chu;640;460
+291870;2016;Dirty Grandpa;94100000;355931130;;11500000;102;1;Comedy;;;en;43457;Covert Media;59;4238;Robert De Niro, Zac Efron, Zoey Deutch;Dan Mazer;590;210
+292483;2014;Not Cool;36026;360260;;800000;93;9;Comedy;;;en;7741;Steeltown Entertainment;33;96;Shane Dawson, Cherami Leigh, Drew Monson;Shane Dawson;350;10
+293646;2015;The 33;24900000;122277220;;25000000;120;8;Drama;History;;en;18464;Phoenix Pictures;64;893;Antonio Banderas, Rodrigo Santoro, Juliette Binoche;Patricia Riggen;690;550
+293660;2016;Deadpool;782837347;3630707090;;58000000;108;2;Action;Adventure;Comedy;en;199863;20th Century Fox;7611;29742;Ryan Reynolds, Morena Baccarin, T.J. Miller;Tim Miller;800;650
+293670;2016;The Wailing;49851770;7866330;;10951000;156;5;Horror;Mystery;;ko;35833;Fox International Productions;7331;1601;Jun Kunimura, Hwang Jung-min, Kwak Do-won;Na Hong-jin;740;810
+293863;2015;The Age of Adaline;65663276;426297760;;25000000;112;4;Romance;Fantasy;Drama;en;54164;Lakeshore Entertainment;7479;6323;Blake Lively, Michiel Huisman, Harrison Ford;Lee Toland Krieger;720;510
+294254;2015;Maze Runner: The Scorch Trials;312296056;816971920;;61000000;131;9;Science Fiction;Action;Thriller;en;88291;Temple Hill Entertainment;673;9974;Dylan O'Brien, Kaya Scodelario, Thomas Brodie-Sangster;Wes Ball;630;430
+294272;2016;Pete's Dragon;143695338;762331510;;65000000;103;8;Adventure;Family;Fantasy;en;28471;Whitaker Entertainment;64;2139;Bryce Dallas Howard, Robert Redford, Oakes Fegley;David Lowery;670;710
+295964;2015;Burnt;36606743;136519460;;20000000;100;10;Drama;;;en;19579;PeaPie Films;65;3240;Bradley Cooper, Sienna Miller, Daniel Brühl;John Wells;660;420
+296096;2016;Me Before You;207945075;562450750;;20000000;110;6;Drama;Romance;;en;10463;New Line Cinema;7925;11900;Emilia Clarke, Sam Claflin, Janet McTeer;Thea Sharrock;740;510
+296098;2015;Bridge of Spies;165478348;723137540;;40000000;141;10;Thriller;Drama;;en;26972;TSG Entertainment;7226;6604;Tom Hanks, Mark Rylance, Alan Alda;Steven Spielberg;760;810
+296099;2015;Vacation;104400000;588841880;;31000000;99;7;Comedy;;;en;35468;New Line Cinema;6305;3584;Ed Helms, Christina Applegate, Skyler Gisondo;John Francis Daley, Jonathan Goldstein;610;340
+297761;2016;Suicide Squad;746846894;3251000540;;175000000;123;8;Action;Adventure;Fantasy;en;89478;Warner Bros. Pictures;5911;20583;Will Smith, Jared Leto, Margot Robbie;David Ayer;590;400
+298312;2015;The Visit;98450062;652061050;;5000000;94;9;Horror;Mystery;Thriller;en;27339;Blumhouse Productions;6317;4521;Olivia DeJonge, Ed Oxenbould, Deanna Dunagan;M. Night Shyamalan;620;550
+299245;2015;The Gallows;42964410;227644100;;100000;81;7;Horror;Thriller;;en;11542;Tremendum Pictures;49;900;Reese Mishler, Pfeifer Brown, Ryan Shoos;Travis Cluff, Chris Lofing;420;300
+299687;2016;The 5th Wave;109906372;349167870;;38000000;112;1;Science Fiction;Adventure;Action;en;39039;LStar Capital;5945;5595;Chloë Grace Moretz, Matthew Zuk, Gabriela Lopez;J Blakeson;520;330
+300168;2015;Dragon Blade;121545703;740680;;65000000;127;2;Adventure;History;Action;zh;38809;Visualizer Film Company;64;537;Jackie Chan, John Cusack, Adrien Brody;Daniel Lee;590;410
+300673;2016;The Finest Hours;52099090;275695580;;80000000;117;1;Action;Drama;History;en;26251;Red Hawk Entertainment;6585;1545;Chris Pine, Casey Affleck, Ben Foster;Craig Gillespie;670;580
+301351;2015;We Are Your Friends;11100000;35914170;;6000000;96;8;Drama;Music;Romance;en;44163;Working Title Films;6755;2257;Zac Efron, Wes Bentley, Emily Ratajkowski;Max Joseph;620;460
+301365;2016;The Neon Demon;3400000;13331240;;7000000;118;5;Thriller;Horror;;en;23488;Space Rocket Nation;65;3615;Elle Fanning, Christina Hendricks, Keanu Reeves;Nicolas Winding Refn;610;510
+302156;2016;Criminal;14708696;147086960;;31500000;113;4;Action;Crime;Science Fiction;en;35226;BenderSpink;62;1650;Kevin Costner, Ryan Reynolds, Gal Gadot;Ariel Vromen;630;360
+302688;2016;My Big Fat Greek Wedding 2;90632641;596896050;;18000000;94;3;Romance;Comedy;Family;en;19995;Universal Pictures;60;967;Nia Vardalos, John Corbett, Michael Constantine;Kirk Jones;600;370
+302699;2016;Central Intelligence;216972543;1274408710;;50000000;107;6;Action;Comedy;Crime;en;63986;New Line Cinema;6414;5686;Dwayne Johnson, Kevin Hart, Danielle Nicolet;Rawson Marshall Thurber;630;520
+303858;2016;Money Monster;93282604;410120750;;27000000;98;5;Thriller;Drama;;en;18858;TriStar Pictures;6441;2844;George Clooney, Julia Roberts, Jack O'Connell;Jodie Foster;650;550
+304357;2015;Woman in Gold;61619773;333077930;;11000000;109;3;Drama;;;en;24111;Origin Pictures;73;1341;Helen Mirren, Ryan Reynolds, Daniel Brühl;Simon Curtis;730;510
+306745;2015;Freeheld;573335;5462010;;7000000;103;10;Romance;Drama;;en;16962;Double Feature Films;73;627;Julianne Moore, Elliot Page, Steve Carell;Peter Sollett;660;500
+307081;2015;Southpaw;91709827;524219530;;30000000;123;3;Action;Drama;;en;56207;Fuqua Films;7366;5316;Jake Gyllenhaal, Rachel McAdams, Oona Laurence;Antoine Fuqua;730;570
+308531;2016;Teenage Mutant Ninja Turtles: Out of the Shadows;245600000;820516010;;135000000;112;6;Action;Adventure;Comedy;en;56253;5150 Action;6016;3366;Megan Fox, Will Arnett, Tyler Perry;Dave Green;590;400
+308639;2015;Dope;17986781;175064700;;7000000;103;6;Crime;Drama;Comedy;en;17155;Revolt Films;7081;1425;Shameik Moore, Tony Revolori, Kiersey Clemons;Rick Famuyiwa;720;720
+309425;2015;Do You Believe?;14410698;129856000;;2300000;115;3;Drama;Drama;;en;24426;Toy Gun Films;65;128;Mira Sorvino, Sean Astin, Alexa PenaVega;Jon Gunn;600;220
+309809;2015;The Little Prince;97571250;13391520;;64000000;108;7;Adventure;Animation;Fantasy;en;37097;Orange Studio;76;2680;Jeff Bridges, Mackenzie Foy, Rachel McAdams;Mark Osborne;770;700
+312221;2015;Creed;17360000;1097788830;;37000000;133;11;Action;Drama;;en;55204;Metro-Goldwyn-Mayer;7414;7173;Michael B. Jordan, Sylvester Stallone, Tessa Thompson;Ryan Coogler;760;820
+314365;2015;Spotlight;98700000;450557760;;20000000;129;11;Drama;History;History;en;33074;Participant;7817;7980;Mark Ruffalo, Michael Keaton, Rachel McAdams;Tom McCarthy;810;930
+314385;2015;By the Sea;3727746;5384600;;10000000;122;11;Drama;Romance;;en;18579;Pellikola;56;570;Brad Pitt, Angelina Jolie, Mélanie Laurent;Angelina Jolie;530;440
+315664;2016;Florence Foster Jenkins;48902953;273837700;;29000000;110;5;Comedy;Drama;;en;16172;BBC Film;67;1409;Meryl Streep, Hugh Grant, Simon Helberg;Stephen Frears;680;710
+316152;2016;Free State of Jones;25035950;208100360;;50000000;140;6;Action;Drama;History;en;18002;STXfilms;674;1437;Matthew McConaughey, Gugu Mbatha-Raw, Mahershala Ali;Gary Ross;690;530
+316727;2016;The Purge: Election Year;118587880;792133750;;10000000;105;6;Action;Horror;Thriller;en;46527;Why Not Productions;64;5072;Frank Grillo, Elizabeth Mitchell, Mykelti Williamson;James DeMonaco;600;550
+318846;2015;The Big Short;133346506;702598700;;28000000;131;12;Comedy;Drama;;en;3504;Paramount;7351;8663;Christian Bale, Steve Carell, Ryan Gosling;Adam McKay;780;810
+318850;2016;The Young Messiah;6500000;64904010;;18500000;120;3;Drama;;;en;13557;Focus Features;64;124;Adam Greaves-Neal, Vincent Walsh, Sara Lazzaro;Cyrus Nowrasteh;570;330
+321258;2016;The Boy;73929392;358195560;;10000000;98;1;Horror;Thriller;Mystery;en;30086;Lakeshore Entertainment;60;3646;Lauren Cohan, Rupert Evans, James Russell;William Brent Bell;600;420
+321697;2015;Steve Jobs;34400000;177666580;;30000000;122;10;Drama;History;;en;24944;Universal Pictures;6769;3995;Michael Fassbender, Kate Winslet, Seth Rogen;Danny Boyle;720;820
+321741;2015;Concussion;50400000;345424740;;35000000;123;11;Drama;;;en;18413;Village Roadshow Pictures;7081;2465;Will Smith, Alec Baldwin, Albert Brooks;Peter Landesman;710;550
+323675;2016;Ride Along 2;124827316;912218300;;40000000;102;1;Action;Comedy;;en;27058;Reel Chefs Catering;6256;1614;Ice Cube, Kevin Hart, Tika Sumpter;Tim Story;590;320
+323676;2016;The Boss;78600000;632858850;;29000000;91;4;Comedy;;;en;17041;Universal Pictures;58;1279;Melissa McCarthy, Kristen Bell, Peter Dinklage;Ben Falcone;540;400
+323677;2016;Race;24804129;192062070;;5000000;134;2;Drama;History;;en;18427;Trinity Race;73;1492;Stephan James, Jason Sudeikis, Eli Goree;Stephen Hopkins;710;560
+324668;2016;Jason Bourne;415484914;1624344100;;120000000;123;7;Action;Thriller;;en;61043;The Kennedy/Marshall Company;6344;5525;Matt Damon, Tommy Lee Jones, Alicia Vikander;Paul Greengrass;660;580
+325133;2016;Neighbors 2: Sorority Rising;108800000;554557650;;35000000;92;5;Comedy;;;en;44445;Perfect World Pictures;582;4269;Seth Rogen, Rose Byrne, Zac Efron;Nicholas Stoller;570;580
+325789;2016;The Infiltrator;21011110;154368080;;28000000;127;7;Crime;Drama;Thriller;en;195;Good Films Collective;667;1609;Bryan Cranston, John Leguizamo, Diane Kruger;Brad Furman;700;660
+328111;2016;The Secret Life of Pets;875457937;3686238600;;75000000;86;6;Adventure;Comedy;Animation;en;16361;Illumination;63;7839;Louis C.K., Eric Stonestreet, Kevin Hart;Chris Renaud;650;610
+328387;2016;Nerve;85241496;385836260;;19000000;96;6;Mystery;Adventure;Crime;en;24535;Lionsgate;70;6668;Emma Roberts, Dave Franco, Emily Meade;Henry Joost, Ariel Schulman;650;580
+328425;2015;The Gift;58978653;437872650;;5000000;108;7;Thriller;Mystery;Drama;en;25288;Blumhouse Productions;6707;3092;Jason Bateman, Rebecca Hall, Joel Edgerton;Joel Edgerton;700;770
+329440;2016;The Forest;37608299;265942610;;10000000;95;1;Horror;Thriller;Mystery;en;3238;Lava Bear;5235;1686;Natalie Dormer, Eoin Macken, Stephanie Vogt;Jason Zada;480;340
+329833;2016;Zoolander 2;56700000;288486930;;50000000;100;2;Comedy;Adventure;Action;en;278;Paramount;4901;2150;Ben Stiller, Owen Wilson, Penélope Cruz;Ben Stiller;470;340
+331190;2015;Captive;2801508;25833010;;2000000;97;9;Crime;Drama;Thriller;en;75791;Itaca Films;57;258;Kate Mara, David Oyelowo, Mimi Rogers;Jerry Jameson;540;360
+332567;2016;The Shallows;119100000;551240430;;17000000;86;6;Horror;Drama;Thriller;en;45866;Columbia Pictures;6352;4905;Blake Lively, Óscar Jaenada, Angelo Josue Lozano Corzo;Jaume Collet-Serra;630;590
+333348;2015;Love the Coopers;42426912;263027310;;17000000;107;11;Drama;Comedy;Family;en;23811;Imagine Entertainment;60;754;Steve Martin, Diane Keaton, John Goodman;Jessie Nelson;580;310
+333371;2016;10 Cloverfield Lane;110216998;720829980;;15000000;104;3;Thriller;Science Fiction;Drama;en;42651;Bad Robot;6985;7599;John Goodman, Mary Elizabeth Winstead, John Gallagher Jr.;Dan Trachtenberg;720;760
+335778;2016;Risen;46100000;368800330;;20000000;107;2;Action;Adventure;Drama;en;31746;Patrick Aiello Productions;6178;805;Joseph Fiennes, Tom Felton, Peter Firth;Kevin Reynolds;630;510
+336004;2015;Heist;4100000;501360;;8900000;93;11;Action;Crime;Thriller;en;26859;Silver Plane Films;61;881;Robert De Niro, Jeffrey Dean Morgan, Dave Bautista;Scott Mann;610;370
+339408;2016;The Birth of a Nation;15861566;158615660;;8500000;120;9;Drama;;;en;13898;Tiny Giant Entertainment;65;507;Nate Parker, Armie Hammer, Penelope Ann Miller;Nate Parker;650;690
+339984;2016;Miracles from Heaven;74000000;617051230;;16000000;119;3;Family;Drama;;en;56951;Columbia Pictures;74;1143;Jennifer Garner, Kylie Rogers, Martin Henderson;Patricia Riggen;710;440
+340611;2016;Indignation;3924527;34011550;;0;110;7;Drama;Romance;;en;8109;Likely Story;64;257;Logan Lerman, Sarah Gadon, Tijuana Ricks;James Schamus;670;780
+342521;2016;Keanu;20609977;205918530;;15000000;100;4;Action;Comedy;Crime;en;17193;New Line Cinema;6069;1000;Keegan-Michael Key, Jordan Peele, Tiffany Haddish;Peter Atencio;620;630
+343795;2015;90 Minutes in Heaven;4842699;48426990;;5000000;121;9;Drama;;;en;22355;Giving Films;59;151;Kate Bosworth, Hayden Christensen, Hudson Meek;Michael Polish;490;280
+345911;2016;Lights Out;148868835;672688350;;4900000;81;7;Horror;Thriller;;en;30173;New Line Cinema;6345;3732;Teresa Palmer, Gabriel Bateman, Maria Bello;David F. Sandberg;630;580
+347126;2016;God's Not Dead 2;23507567;207745750;;5000000;121;4;Drama;;;en;3297;Pure Flix Entertainment;61;386;Melissa Joan Hart, Jesse Metcalfe, David A.R. White;Harold Cronk;430;220
+351819;2016;Fifty Shades of Black;21164799;116869400;;20000000;92;1;Romance;Comedy;;en;32487;Wayans Alvarez Productions;49;1293;Marlon Wayans, Kali Hawk, Fred Willard;Michael Tiddes;350;280
+364083;2015;Mi America;3330;33300;;2100000;126;10;Drama;Crime;;en;1132;Industrial House Films;0;0;Robert Fontaine, Michael Brainard, Grant Boyd;Robert Fontaine;670;
+365222;2015;Ip Man 3;157000000;26794370;;36000000;105;12;Action;Drama;History;cn;25411;Dreams Salon Entertainment Culture;7008;1647;Donnie Yen, Lynn Xiong, Jin Zhang;Wilson Yip;700;570
+376659;2016;Bad Moms;183936074;1132572970;;20000000;100;7;Comedy;;;en;26652;STXfilms;65;3972;Mila Kunis, Kathryn Hahn, Kristen Bell;Jon Lucas, Scott Moore;620;600
+381902;2016;The Monkey King 2;193677158;7099820;;68490000;120;1;Action;Adventure;Fantasy;zh;23797;Filmko Pictures;59;88;Aaron Kwok, Gong Li, William Shao-Feng Feng;Soi Cheang;590;
+407887;2016;Operation Chromite;49196532;10233480;;12700000;111;7;History;Drama;War;ko;21772;Taewon Entertainment;59;195;Liam Neeson, Lee Jung-jae, Lee Beom-su;John H. Lee;620;500
+417859;2011;Puss in Boots;554987477;1492605040;;130000000;90;10;Animation;Family;Fantasy;en;57685;DreamWorks Animation;6554;3798;Antonio Banderas, Salma Hayek, Zach Galifianakis;Chris Miller;660;650
