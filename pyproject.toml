@@ -16,6 +16,8 @@ pre-commit = "^3.7.0"
 flake8 = "^7.0.0"
 black = "^24.3.0"
 tqdm = "^4.66.2"
+pydantic = "^2.6.4"
+sqlalchemy = "^2.0.29"
 
 
 [build-system]
@@ -31,7 +33,7 @@ isort .
 black .
 flake8 . --exclude=.venv
 """
-create_database = "python app/database.py"
+create_database = "python app/main.py"
 
 [tool.flake8]
 exclude = ".venv"
