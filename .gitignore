@@ -14,6 +14,11 @@ params_consult.txt
 
 #Data
 data/output
+data/input/Backup
+data/input/Incompletes_Databases
+data/input/Databases_to_Concatenate
+data/input/Incompletes_Databases
+data/input/Original_Databases
 *.json
 *.db
 

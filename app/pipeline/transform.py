@@ -144,6 +144,26 @@ def _calculate_InternationalBox_office(row):
         
     return row['WorldwideBox_office'] - row['DomesticBox_office']
 
+def filter_dataframe(df: pd.DataFrame):
+    return fill_dataframe(
+        df = df, 
+        columns_to_split = {
+            "Cast": {"number_columns": 3},
+            "Director": {"number_columns": 1},
+        },
+        columns_to_fill_NaN_Values = [
+            "WorldwideBox_office",
+            "DomesticBox_office"
+        ],
+        columns_to_filter = {
+            "IMDB_Rating":{
+                "filter" : "x: x / 10 if x > 10 else x"
+            },
+            "Metascore":{
+                "filter" : "x: x / 10 if x > 100 else x"
+            },
+        }
+    )
 
 if __name__ == "__main__":
     from extract import read_data
